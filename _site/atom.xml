@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>KS & Jarkom</title>
+ <link href="http://192.168.10.5:4000/atom.xml" rel="self"/>
+ <id>http://192.168.10.5:4000</id>
+ <updated>2024-12-18T01:39:25+00:00</updated>
+ <author>
+   <name>Info UMMU Ternate</name>
+   <uri>https://infoummu.github.io</uri>
+   <email>elyas.uii14@gmail.com</email>
+ </author>
+
+ 
+
+ <entry>
+   <title>Keamana Sistem & Jaringan Komputer V2</title>
+   <link href="http://192.168.10.5:4000/Keamanan-Sistem-dan-JaringanKomputer-kj2"/>
+   <id>http://192.168.10.5:4000/Keamanan-Sistem-dan-JaringanKomputer-kj2</id>
+   <updated>2024-12-17T00:00:00+00:00</updated>
+   <content type="html">&lt;h2 id=&quot;keamanan-sistem-dan-jaringan-komputer&quot;&gt;Keamanan Sistem dan Jaringan Komputer&lt;/h2&gt; &lt;h3 id=&quot;deskripsi-mata-kuliah&quot;&gt;Deskripsi Mata Kuliah&lt;/h3&gt; &lt;p&gt;Keamanan Sistem dan Jaringan Komputer adalah mata kuliah yang mempelajari berbagai teknik, metode, dan alat untuk melindungi sistem dan jaringan komputer dari berbagai ancaman siber. Mata kuliah ini sangat penting mengingat semakin tingginya ketergantungan kita pada teknologi digital dan semakin canggihnya serangan siber yang terjadi.&lt;/p&gt; &lt;h3 id=&quot;tujuan-mata-kuliah&quot;&gt;Tujuan Mata Kuliah&lt;/h3&gt; &lt;ul&gt; &lt;li&gt;Memahami konsep dasar keamanan informasi.&lt;/li&gt; &lt;li&gt;Mengenal berbagai jenis ancaman siber dan vektor serangan.&lt;/li&gt; &lt;li&gt;Mempelajari mekanisme pertahanan sistem dan jaringan komputer.&lt;/li&gt; &lt;li&gt;Menerapkan prinsip-prinsip keamanan dalam merancang dan mengelola sistem informasi.&lt;/li&gt; &lt;/ul&gt;...</content>
+ </entry>
+
+ 
+
+ <entry>
+   <title>Keamana Sistem & Jaringan Komputer V1</title>
+   <link href="http://192.168.10.5:4000/Keamanan-Sistem-dan-JaringanKomputer-kj1"/>
+   <id>http://192.168.10.5:4000/Keamanan-Sistem-dan-JaringanKomputer-kj1</id>
+   <updated>2024-12-17T00:00:00+00:00</updated>
+   <content type="html">&lt;h2 id=&quot;keamanan-sistem-dan-jaringan-komputer&quot;&gt;Keamanan Sistem dan Jaringan Komputer&lt;/h2&gt; &lt;p&gt;Mata kuliah &lt;strong&gt;Keamanan Sistem dan Jaringan Komputer&lt;/strong&gt; bertujuan untuk memberikan pemahaman mendalam mengenai prinsip-prinsip, teknik, dan alat yang digunakan untuk melindungi sistem komputer dan jaringan dari berbagai ancaman keamanan.&lt;/p&gt; &lt;h3 id=&quot;pokok-bahasan&quot;&gt;Pokok Bahasan:&lt;/h3&gt; &lt;ol&gt; &lt;li&gt;&lt;strong&gt;Dasar-Dasar Keamanan Informasi&lt;/strong&gt; &lt;ul&gt; &lt;li&gt;Konsep CIA (Confidentiality, Integrity, Availability)&lt;/li&gt; &lt;li&gt;Ancaman, kerentanan, dan risiko&lt;/li&gt; &lt;li&gt;Kebijakan keamanan informasi&lt;/li&gt; &lt;/ul&gt; &lt;/li&gt; &lt;li&gt;&lt;strong&gt;Kriptografi&lt;/strong&gt; &lt;ul&gt; &lt;li&gt;Algoritma enkripsi simetris dan asimetris&lt;/li&gt; &lt;li&gt;Hashing dan tanda tangan digital&lt;/li&gt; &lt;li&gt;Sertifikat digital dan infrastruktur kunci publik (PKI)&lt;/li&gt; &lt;/ul&gt; &lt;/li&gt; &lt;li&gt;&lt;strong&gt;Keamanan Sistem Operasi&lt;/strong&gt; &lt;ul&gt; &lt;li&gt;Model keamanan sistem operasi&lt;/li&gt; &lt;li&gt;Hardening sistem operasi&lt;/li&gt; &lt;li&gt;Manajemen...</content>
+ </entry>
+
+ 
+
+ <entry>
+   <title>Examples Pages - FD</title>
+   <link href="http://192.168.10.5:4000/examples-pages"/>
+   <id>http://192.168.10.5:4000/examples-pages</id>
+   <updated>2020-10-16T00:00:00+00:00</updated>
+   <content type="html">&lt;!-- *********************** --&gt; &lt;ul class=&quot;tree&quot;&gt; &lt;li&gt; Giant planets ccccc &lt;ul&gt; &lt;li&gt;Ice giants &lt;ul&gt; &lt;li&gt;Uranus&lt;/li&gt; &lt;li&gt;Neptune&lt;/li&gt; &lt;/ul&gt; &lt;/li&gt; &lt;/ul&gt; &lt;/li&gt; &lt;/ul&gt; &lt;hr /&gt; &lt;ul class=&quot;tree&quot;&gt; &lt;li&gt; &lt;details open=&quot;&quot;&gt; &lt;summary&gt;Level 1 - Forensik Digital&lt;/summary&gt; &lt;p&gt; Requires a computer running an operating system. The computer must have some memory and ideally some kind of long-term storage. An input device as well as some form of output device is recommended. &lt;ul&gt; &lt;li&gt; &lt;details open=&quot;&quot;&gt; &lt;summary&gt;Level 2 - System Requirements 0&lt;/summary&gt; &lt;p&gt; Requires a computer running an operating system. The computer must have some memory...</content>
+ </entry>
+
+ 
+
+</feed>
