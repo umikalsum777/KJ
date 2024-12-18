@@ -5,7 +5,7 @@ description: This page displays all posts.
 header: All Post
 ---
 
-### Archive of All Post TES: 
+### Archive of All Post: 
 
 <ul>
     {% for post in site.posts %}

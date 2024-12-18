@@ -7,17 +7,6 @@ author: Ikhwan N. Elyas
 ---
 
 
-<!-- 
-*********************************************
-FOR FD 2022  
-*********************************************
--->
-
-<!-- 
-*********************************************
-EXPERIMENT 2 : ??
-*********************************************
--->
 <!-- { if post.title == "Cybercrime Forensik Digital -" } -->
 <ul>
     {% for post in site.posts %}
@@ -40,7 +29,7 @@ EXPERIMENT 2 : ??
 
 ***
 
-#### Info & Download File: 
+#### Info URL: 
 
 <ul>
     <li><a href="#">Site URL : {{ site.url }}</a></li>
