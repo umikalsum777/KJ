@@ -4,7 +4,7 @@
  <title>KS & Jarkom</title>
  <link href="http://192.168.10.5:4000/atom.xml" rel="self"/>
  <id>http://192.168.10.5:4000</id>
- <updated>2024-12-18T06:28:10+00:00</updated>
+ <updated>2024-12-18T06:30:15+00:00</updated>
  <author>
    <name>Info UMMU Ternate</name>
    <uri>https://infoummu.github.io</uri>
@@ -34,7 +34,7 @@
  
 
  <entry>
-   <title>Keamana Sistem & Jaringan Komputer V1</title>
+   <title>Tugas Keamana Sistem & Jaringan Komputer</title>
    <link href="http://192.168.10.5:4000/Tugas-KJ"/>
    <id>http://192.168.10.5:4000/Tugas-KJ</id>
    <updated>2024-12-10T00:00:00+00:00</updated>
