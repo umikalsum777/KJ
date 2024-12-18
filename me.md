@@ -4,17 +4,6 @@ title: About
 description: This page describes Keamanan Sistem & Jaringan Komputer.
 ---
 
-<!--
-## Numpang Untuk Download Paper dari IEEE 
-<pre>
-</pre>
-
-	{% include ie-url.html %}
-
-____
--->
-
-
 ## Tentang Web ini
 
 Halaman Web ini untuk anak-anak Jaringan UMMU sharing Pengetahuan tentang Mata Kuliah **Keamanan Sistem & Jaringan Komputer**
