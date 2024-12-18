@@ -5,19 +5,8 @@ description: This page displays all posts.
 header: All Post
 ---
 
-### Archive of All Post : 
-<!-- 
-*********************************************
-FOR FD 2022  
-*********************************************
--->
+### Archive of All Post TES: 
 
-<!-- 
-*********************************************
-EXPERIMENT 2 : ??
-*********************************************
--->
-<!-- { if post.title == "Cybercrime Forensik Digital -" } -->
 <ul>
     {% for post in site.posts %}
 
@@ -31,6 +20,20 @@ EXPERIMENT 2 : ??
 
 
 
+***
+
+
+### Posts by Author : Ikhwan 
+
+<ul>
+{% for post in site.posts %}
+    {% if post.author contains "Ikhwan" %}
+        <li>
+            <a href="{{ site.url }}{{ site.baseurl }}{{ post.url}}.html" target="_blank">{{ post.date | date: "%-d %B %Y" }} - {{ post.title }} [ {{ post.author }} ] </a> 
+        </li>
+    {% endif %}
+{% endfor %}
+</ul>
 
 
 ***

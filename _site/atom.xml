@@ -4,7 +4,7 @@
  <title>KS & Jarkom</title>
  <link href="http://192.168.10.5:4000/atom.xml" rel="self"/>
  <id>http://192.168.10.5:4000</id>
- <updated>2024-12-18T01:54:46+00:00</updated>
+ <updated>2024-12-18T03:29:38+00:00</updated>
  <author>
    <name>Info UMMU Ternate</name>
    <uri>https://infoummu.github.io</uri>
@@ -29,6 +29,16 @@
    <id>http://192.168.10.5:4000/Keamanan-Sistem-dan-JaringanKomputer-kj1</id>
    <updated>2024-12-17T00:00:00+00:00</updated>
    <content type="html">&lt;h2 id=&quot;keamanan-sistem-dan-jaringan-komputer&quot;&gt;Keamanan Sistem dan Jaringan Komputer&lt;/h2&gt; &lt;p&gt;Mata kuliah &lt;strong&gt;Keamanan Sistem dan Jaringan Komputer&lt;/strong&gt; bertujuan untuk memberikan pemahaman mendalam mengenai prinsip-prinsip, teknik, dan alat yang digunakan untuk melindungi sistem komputer dan jaringan dari berbagai ancaman keamanan.&lt;/p&gt; &lt;h3 id=&quot;pokok-bahasan&quot;&gt;Pokok Bahasan:&lt;/h3&gt; &lt;ol&gt; &lt;li&gt;&lt;strong&gt;Dasar-Dasar Keamanan Informasi&lt;/strong&gt; &lt;ul&gt; &lt;li&gt;Konsep CIA (Confidentiality, Integrity, Availability)&lt;/li&gt; &lt;li&gt;Ancaman, kerentanan, dan risiko&lt;/li&gt; &lt;li&gt;Kebijakan keamanan informasi&lt;/li&gt; &lt;/ul&gt; &lt;/li&gt; &lt;li&gt;&lt;strong&gt;Kriptografi&lt;/strong&gt; &lt;ul&gt; &lt;li&gt;Algoritma enkripsi simetris dan asimetris&lt;/li&gt; &lt;li&gt;Hashing dan tanda tangan digital&lt;/li&gt; &lt;li&gt;Sertifikat digital dan infrastruktur kunci publik (PKI)&lt;/li&gt; &lt;/ul&gt; &lt;/li&gt; &lt;li&gt;&lt;strong&gt;Keamanan Sistem Operasi&lt;/strong&gt; &lt;ul&gt; &lt;li&gt;Model keamanan sistem operasi&lt;/li&gt; &lt;li&gt;Hardening sistem operasi&lt;/li&gt; &lt;li&gt;Manajemen...</content>
+ </entry>
+
+ 
+
+ <entry>
+   <title>Keamana Sistem & Jaringan Komputer V1</title>
+   <link href="http://192.168.10.5:4000/Tugas-KJ"/>
+   <id>http://192.168.10.5:4000/Tugas-KJ</id>
+   <updated>2024-12-10T00:00:00+00:00</updated>
+   <content type="html">&lt;h2 id=&quot;uts&quot;&gt;UTS&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;Nanti dilaksanakan di Quizii.&lt;/li&gt; &lt;li&gt;Waktu pelaksanaan akan diinformasikan kemudian.&lt;/li&gt; &lt;li&gt;Soal sekitar 50-an.&lt;/li&gt; &lt;li&gt;Materi diambil dari PDF yang pernah disampaikan sebagai materi.&lt;/li&gt; &lt;/ul&gt; &lt;h2 id=&quot;tugas-pengganti-beberapa-pertemuan-yang-lewat&quot;&gt;Tugas Pengganti Beberapa Pertemuan yang Lewat&lt;/h2&gt; &lt;h3 id=&quot;instruksi&quot;&gt;Instruksi:&lt;/h3&gt; &lt;ol&gt; &lt;li&gt;&lt;strong&gt;Buat akun di GitHub.com&lt;/strong&gt; &lt;ul&gt; &lt;li&gt;Akun ini akan digunakan untuk membuat artikel terkait mata kuliah &lt;em&gt;Keamanan Jaringan&lt;/em&gt;.&lt;/li&gt; &lt;/ul&gt; &lt;/li&gt; &lt;li&gt;&lt;strong&gt;Materi artikel&lt;/strong&gt; &lt;ul&gt; &lt;li&gt;Mengacu pada file PDF yang telah di-share sebelumnya.&lt;/li&gt; &lt;/ul&gt; &lt;/li&gt; &lt;li&gt;&lt;strong&gt;Tema artikel&lt;/strong&gt; &lt;ul&gt; &lt;li&gt;Tema bebas tetapi tidak boleh sama satu dengan yang lainnya (berdasarkan materi yang telah di-share).&lt;/li&gt; &lt;/ul&gt; &lt;/li&gt; &lt;li&gt;&lt;strong&gt;Pengelolaan akun GitHub&lt;/strong&gt;...</content>
  </entry>
 
  
