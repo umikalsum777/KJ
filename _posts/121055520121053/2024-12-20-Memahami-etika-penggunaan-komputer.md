@@ -5,6 +5,8 @@ author: SURYANTI TAMRIN
 NPM : 121055520121053
 ---
 
+### MEMAHAMI ETIKA PENGGUNAAN KOMPUTER
+
 ## Kata pengantar
 
 Di era digital yang semakin berkembang pesat, komputer dan teknologi informasi memainkan peran yang sangat penting dalam kehidupan sehari-hari. Teknologi ini memudahkan berbagai aktivitas, mulai dari komunikasi, pekerjaan, pendidikan, hingga hiburan. Namun, seiring dengan pesatnya penggunaan teknologi, muncul pula berbagai tantangan etika yang harus diperhatikan oleh setiap pengguna. Etika penggunaan komputer menjadi hal yang sangat relevan untuk memastikan bahwa teknologi digunakan dengan cara yang bertanggung jawab, tidak merugikan orang lain, dan mematuhi prinsip-prinsip moral yang berlaku.
