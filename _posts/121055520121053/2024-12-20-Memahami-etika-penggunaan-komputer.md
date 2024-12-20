@@ -26,6 +26,19 @@ A. **isu-isu etika penggunaan komputer**
    
    Isu privasi dan keamanan data merupakan salah satu tantangan utama dalam penggunaan komputer. Dalam era digital, data pribadi dan informasi sensitif sering kali menjadi sasaran peretasan atau penyalahgunaan. Pengguna komputer, baik individu maupun organisasi, memiliki tanggung jawab untuk melindungi informasi pribadi dengan cara yang aman dan terjaga. Pelanggaran terhadap privasi, seperti pencurian data atau pengumpulan data tanpa izin, dapat merugikan individu dan merusak kepercayaan publik. Oleh karena itu, penting bagi pengguna untuk memahami pentingnya menjaga keamanan data pribadi serta bagi organisasi untuk menerapkan kebijakan yang memadai untuk melindungi informasi tersebut.
 
+   -Hak cipta dan pembajakan
+   
+   Isu lain yang sering muncul adalah pelanggaran hak cipta dan pembajakan perangkat lunak. Pembajakan perangkat lunak dan konten digital, seperti musik, film, dan buku, telah menjadi masalah yang signifikan dalam dunia digital. Banyak pengguna yang mengunduh atau membagikan konten tanpa izin dari pemiliknya, yang jelas merupakan pelanggaran terhadap hak cipta. Tindakan ini tidak hanya merugikan pencipta konten dan pengembang perangkat lunak, tetapi juga dapat berdampak buruk pada industri kreatif secara keseluruhan. Oleh karena itu, penting untuk menghormati hak cipta dan menggunakan perangkat lunak serta konten yang sah dan legal.
+
+   -Penyebaran Informasi Palsu dan Hoaks
+   
+Penyebaran informasi palsu atau hoaks menjadi isu yang semakin mengkhawatirkan di dunia digital, terutama di media sosial. Hoaks dapat menyebabkan kebingungan, ketakutan, bahkan kerusakan sosial yang lebih besar. Pengguna komputer harus memiliki tanggung jawab moral untuk memverifikasi kebenaran informasi sebelum menyebarkannya. Penyebaran informasi yang tidak terverifikasi dapat merusak reputasi individu, organisasi, bahkan negara. Oleh karena itu, penting untuk berhati-hati dalam menyebarkan informasi dan memastikan bahwa informasi yang dibagikan adalah akurat dan dapat dipercaya
+
+-Kesenjangan Digital dan Akses Teknologi
+
+Kesenjangan digital merujuk pada ketidaksetaraan akses terhadap teknologi informasi dan komunikasi di antara kelompok masyarakat yang berbeda. Kesenjangan ini dapat terjadi antara wilayah yang memiliki akses internet yang baik dengan yang tidak, atau antara individu yang memiliki kemampuan untuk menggunakan teknologi dengan yang tidak. Ketidaksetaraan ini dapat memperburuk ketimpangan sosial dan ekonomi. Oleh karena itu, penting untuk memastikan bahwa semua orang memiliki akses yang setara terhadap teknologi dan informasi, sehingga dapat mengurangi kesenjangan digital dan menciptakan peluang yang adil bagi setiap individu untuk memanfaatkan teknologi.
+
+
 3. **Keamanan Sistem Operasi**
    - Model keamanan sistem operasi  
    - Hardening sistem operasi  
