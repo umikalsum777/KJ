@@ -130,8 +130,8 @@ Ada beberapa langkah yang dapat diambil untuk meningkatkan keamanan sistem kompu
 Seiring dengan perkembangan teknologi, berbagai solusi keamanan baru juga muncul. Beberapa teknologi keamanan terkini yang dapat digunakan untuk meningkatkan keamanan sistem komputer antara lain:
 
 1.	**Sistem Deteksi Intrusi (IDS) dan Sistem Pencegahan Instrusi (IPS)**
-   
-   Sistem Deteksi Intrusi (IDS) dan Sistem Pencegahan Intrusi (IPS) digunakan untuk memantau jaringan dan mencegah serangan. IDS berfungsi untuk mendeteksi aktivitas mencurigakan dan memberikan peringatan kepada administrator, sementara IPS dapat mengambil tindakan otomatis untuk mencegah serangan sebelum mencapai sistem.
+
+  	Sistem Deteksi Intrusi (IDS) dan Sistem Pencegahan Intrusi (IPS) digunakan untuk memantau jaringan dan mencegah serangan. IDS berfungsi untuk mendeteksi aktivitas mencurigakan dan memberikan peringatan kepada administrator, sementara IPS dapat mengambil tindakan otomatis untuk mencegah serangan sebelum mencapai sistem.
    
 2.	**Keamanan Berbasis Cloud**
 
