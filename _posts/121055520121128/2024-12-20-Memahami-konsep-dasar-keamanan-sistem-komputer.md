@@ -80,11 +80,11 @@ Untuk melindungi sistem komputer dari ancaman, ada beberapa prinsip dasar yang h
 
   	Prinsip least privilege menyatakan bahwa pengguna hanya diberikan akses yang diperlukan untuk melakukan tugas mereka. Dengan membatasi hak akses, risiko penyalahgunaan dapat diminimalkan. Misalnya, seorang karyawan di departemen pemasaran tidak perlu memiliki akses ke database keuangan perusahaan.
   	
-4.	**Keamanan Berdasarkan Resiko**
-  
-   Pendekatan keamanan berdasarkan risiko melibatkan identifikasi dan penilaian risiko yang dihadapi oleh sistem. Dengan memahami risiko, organisasi dapat mengembangkan strategi untuk mengurangi atau mengelola risiko tersebut. Ini termasuk penilaian kerentanan dan analisis dampak.
+3.	**Keamanan Berdasarkan Resiko**
+
+  	Pendekatan keamanan berdasarkan risiko melibatkan identifikasi dan penilaian risiko yang dihadapi oleh sistem. Dengan memahami risiko, organisasi dapat mengembangkan strategi untuk mengurangi atau mengelola risiko tersebut. Ini termasuk penilaian kerentanan dan analisis dampak.
    
-4.	**Pemantauan dan Audit**
+5.	**Pemantauan dan Audit**
 
   	Pemantauan dan audit sistem secara teratur sangat penting untuk mendeteksi aktivitas yang mencurigakan. Log aktivitas dapat membantu dalam mengidentifikasi dan menganalisis potensi ancaman. Audit keamanan juga dapat membantu menilai efektivitas langkah-langkah keamanan yang telah diterapkan.
 
