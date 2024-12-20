@@ -1,5 +1,5 @@
 ---
-title: Keamana Sistem & Jaringan Komputer
+title: Keamanan Sistem & Jaringan Komputer
 category: Materi
 author: Sulasri Suwarno
 Npm: 121055520121128
