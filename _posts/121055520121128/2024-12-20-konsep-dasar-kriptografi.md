@@ -47,43 +47,56 @@ Ancaman, kerentanan, dan risiko
 ### D. Jenis-Jenis Kriptografi
 4.1	**Kriptografi Simetris**
       Kriptografi simetris menggunakan kunci yang sama untuk enkripsi dan dekripsi. Contoh algoritma yang digunakan adalah DES dan AES.
+      
 4.2	**Kriptografi Asimetris**
       Kriptografi asimetris menggunakan sepasang kunci, yaitu kunci publik dan kunci privat. RSA adalah salah satu algoritma yang paling terkenal dalam kategori ini.
+      
 4.3	**Kriptografi Hibrida**
       Kriptografi hibrida menggabungkan kedua metode di atas untuk memanfaatkan kelebihan masing-masing. Ini sering digunakan dalam protokol keamanan seperti SSL/TLS.
 
 ### E. Algoritma Kriptografi
 5.1	**Algoritma Kriptografi Simetris**
+
 1.	RSA (Rivest-Shamir-Adleman): Algoritma yang paling umum digunakan untuk enkripsi dan tanda tangan digital.
-2.	RSA (Rivest-Shamir-Adleman): Algoritma yang paling umum digunakan untuk enkripsi dan tanda tangan digital.
+   
+3.	RSA (Rivest-Shamir-Adleman): Algoritma yang paling umum digunakan untuk enkripsi dan tanda tangan digital.
 
 ### F. Aplikasi Kriptografi
 6.1	**Keamanan Jaringan**
       Kriptografi digunakan untuk melindungi data yang ditransmisikan melalui jaringan, seperti dalam protokol HTTPS.
+      
 6.2	**E-Commerce**
       Dalam transaksi e-commerce, kriptografi digunakan untuk melindungi informasi sensitif seperti nomor kartu kredit dan data pribadi. Protokol seperti SSL/TLS memastikan bahwa data yang dikirim antara pengguna dan situs web aman dari penyadapan.
+      
 6.3	**Komunikasi Aman**
       Aplikasi pesan instan dan email menggunakan kriptografi untuk memastikan bahwa komunikasi antara pengguna tetap rahasia. Contoh aplikasi yang menggunakan enkripsi end-to-end adalah WhatsApp dan Signal.
+      
 6.4	**Tanda Tangan Digital**
       Tanda tangan digital menggunakan kriptografi asimetris untuk memberikan keaslian dan integritas pada dokumen elektronik. Ini sangat penting dalam konteks hukum dan bisnis, di mana bukti digital diperlukan.
+      
 6.5	**Penyimpanan Data**
       Kriptografi juga digunakan untuk melindungi data yang disimpan, baik di perangkat lokal maupun di cloud. Enkripsi disk dan enkripsi file adalah metode yang umum digunakan untuk menjaga kerahasiaan data.
 
 ### G. Tantangan Data Kriptografi
 7.1	**Serangan Kriptografi**
       Meskipun kriptografi dirancang untuk melindungi data, ada berbagai jenis serangan yang dapat mengancam keamanan sistem. Serangan seperti brute force, serangan man-in-the-middle, dan serangan side-channel dapat mengeksploitasi kelemahan dalam algoritma atau implementasi kriptografi.
+      
 7.2	**Manajemen Kunci**
       Salah satu tantangan terbesar dalam kriptografi adalah manajemen kunci. Kunci yang hilang atau dicuri dapat mengakibatkan kebocoran data. Oleh karena itu, penting untuk memiliki sistem yang aman untuk menghasilkan, menyimpan, dan mendistribusikan kunci.
+      
 7.3	**Keterbatasan Sumber Daya**
       Beberapa algoritma kriptografi, terutama yang menggunakan kunci panjang, dapat memerlukan sumber daya komputasi yang signifikan. Ini dapat menjadi masalah pada perangkat dengan kapasitas terbatas, seperti perangkat IoT.
+      
 7.4	**Regulasi dan Kepatuhan**
       Dengan meningkatnya perhatian terhadap privasi dan keamanan data, banyak negara telah mengeluarkan regulasi yang mengatur penggunaan kriptografi. Organisasi harus memastikan bahwa mereka mematuhi regulasi ini, yang dapat bervariasi dari satu negara ke negara lain.
 
 ### H. Masa Depan Kriptografi
 8.1	**Kriptografi Kuantum**
       Dengan kemajuan dalam komputasi kuantum, ada kekhawatiran bahwa algoritma kriptografi saat ini, seperti RSA, dapat dengan mudah dipecahkan oleh komputer kuantum. Penelitian sedang dilakukan untuk mengembangkan algoritma kriptografi kuantum yang dapat bertahan terhadap serangan ini.
+      
 8.2	**Blockchain dan Kriptografi**
       Teknologi blockchain, yang mendasari cryptocurrency seperti Bitcoin, menggunakan kriptografi untuk memastikan keamanan dan integritas transaksi. Masa depan kriptografi akan sangat dipengaruhi oleh perkembangan teknologi blockchain dan aplikasi desentralisasi lainnya.
+      
 8.3	**Peningkataan Kesadaran Keamanan**
       Seiring dengan meningkatnya ancaman terhadap keamanan informasi, kesadaran akan pentingnya kriptografi dan praktik keamanan yang baik akan terus meningkat. Pendidikan dan pelatihan tentang kriptografi akan menjadi semakin penting bagi individu dan organisasi.
 
@@ -94,9 +107,14 @@ Ancaman, kerentanan, dan risiko
 ### J. Referensi
 
 -Stallings, W. (2017). Cryptography and Network Security: Principles and Practice. Pearson. 
+
 -Katz, J., & Lindell, Y. (2014). Introduction to Modern Cryptography: Principles and Protocols. CRC Press. 
+
 -Schneier, B. (2015). Secrets and Lies: Digital Security in a Networked World. Wiley. 
+
 -Diffie, W., & Hellman, M. (1976). "New Directions in Cryptography." IEEE Transactions on Information Theory, 22(6), 644-654. 
+
 -NIST. (2019). "Recommendation for Key Management." Retrieved from NIST.
+
 -Kahn, D. (1996). The Codebreakers: The Story of Secret Writing. Scribner. Rivest, R. L., Shamir, A., & Adleman, L. (1978)
 
