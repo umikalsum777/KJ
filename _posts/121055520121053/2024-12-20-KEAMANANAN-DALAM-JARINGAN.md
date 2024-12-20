@@ -26,7 +26,7 @@ Keamanan dalam jaringan bertujuan untuk melindungi data dan sistem dari akses ya
 
 Pentingnya keamanan jaringan juga didukung oleh regulasi seperti GDPR (General Data Protection Regulation) di Uni Eropa, yang mewajibkan organisasi untuk melindungi data pribadi pengguna. Keamanan jaringan yang kuat memastikan bahwa data tetap aman dan hanya diakses oleh pihak yang berwenang.
 
-**2. Ancaman terhadap Keamanan Jaringan**
+### 2. Ancaman terhadap Keamanan Jaringan
 
 Berbagai ancaman yang dapat mengganggu keamanan jaringan meliputi:
 **2.1 Malware**
@@ -66,45 +66,34 @@ Mengedukasi pengguna tentang ancaman seperti phishing dan social engineering.
 Menggunakan autentikasi multifaktor (MFA) untuk mengamankan akses ke jaringan.
 Memantau aktivitas jaringan secara real-time untuk mendeteksi aktivitas mencurigakan.
     
-**3. Langkah-Langkah Keamanan dalam Jaringan**
+### 3. Langkah-Langkah Keamanan dalam Jaringan
 
-3.1 Firewall
+**3.1 Firewall**
+Firewall berfungsi sebagai penghalang antara jaringan internal dan jaringan eksternal, seperti internet. Firewall menyaring lalu lintas jaringan berdasarkan aturan keamanan yang telah ditentukan. Dengan demikian, firewall dapat mencegah akses tidak sah ke jaringan dan melindungi data yang sensitif.
 
-Firewall berfungsi sebagai penghalang antara jaringan internal dan eksternal, menyaring lalu lintas berdasarkan aturan keamanan yang telah ditentukan.
+**3.2 Enkripsi Data**
+Enkripsi data adalah proses mengubah informasi menjadi format yang hanya dapat dibaca oleh pihak yang memiliki kunci dekripsi. Enkripsi memastikan bahwa data yang ditransmisikan melalui jaringan tetap aman, bahkan jika data tersebut dicegat oleh pihak yang tidak berwenang.
 
-3.2 Enkripsi Data
+**3.3 Autentikasi Multifaktor (MFA)**
+MFA menambahkan lapisan keamanan tambahan dengan mewajibkan pengguna untuk memberikan lebih dari satu bentuk verifikasi identitas, seperti kata sandi dan kode yang dikirimkan ke perangkat seluler. Langkah ini secara signifikan mengurangi risiko akses tidak sah ke jaringan.
 
-Enkripsi memastikan bahwa data yang ditransmisikan melalui jaringan hanya dapat dibaca oleh pihak yang memiliki kunci dekripsi.
+**3.4 Pemantauan Jaringan**
+Pemantauan jaringan secara real-time memungkinkan identifikasi dini terhadap aktivitas mencurigakan atau anomali dalam jaringan. Dengan alat pemantauan, administrator dapat segera mengambil tindakan untuk mencegah atau mengurangi dampak serangan.
 
-3.3 Autentikasi Multifaktor (MFA)
-
-MFA menambahkan lapisan keamanan dengan meminta pengguna untuk memberikan lebih dari satu bentuk verifikasi identitas.
-
-3.4 Pemantauan Jaringan
-
-Pemantauan jaringan secara real-time membantu mendeteksi aktivitas mencurigakan dan mengambil tindakan pencegahan segera.
-
-3.5 Pendidikan Pengguna
+**3.5 Pendidikan Pengguna**
 
 Pendidikan tentang keamanan jaringan kepada pengguna membantu mengurangi risiko dari ancaman seperti phishing dan malware.
 
-**4. Teknologi Keamanan Jaringan Terkini**
+### 4. Teknologi Keamanan Jaringan Terkini
 
-4.1 Sistem Deteksi dan Pencegahan Intrusi (IDPS)
+**4.1 Sistem Deteksi dan Pencegahan Intrusi (IDPS)**
+IDPS adalah teknologi yang dirancang untuk memantau aktivitas jaringan, mendeteksi ancaman, dan mencegah serangan. Sistem ini bekerja dengan menganalisis lalu lintas jaringan untuk mendeteksi pola yang mencurigakan.
 
-IDPS digunakan untuk mendeteksi dan mencegah ancaman dengan memantau aktivitas jaringan.
+### 4.2 Kecerdasan Buatan (AI)**
+AI dapat membantu mendeteksi dan merespons ancaman secara otomatis. Dengan menganalisis pola lalu lintas jaringan, AI dapat mengidentifikasi potensi serangan dan memberikan peringatan kepada administrator jaringan.
 
-4.2 Kecerdasan Buatan (AI) dalam Keamanan
-
-AI digunakan untuk menganalisis pola ancaman dan memberikan respons yang cepat terhadap serangan.
-
-4.3 Virtual Private Network (VPN)
-
-VPN memberikan lapisan keamanan tambahan dengan mengenkripsi koneksi internet pengguna.
-
-4.4 Blockchain
-
-Blockchain menawarkan cara yang aman untuk mengelola data dalam jaringan dengan menciptakan catatan yang tidak dapat diubah.
+**4.3 Virtual Private Network (VPN)**
+VPN menyediakan koneksi internet yang aman dengan mengenkripsi data yang dikirimkan dan diterima. Teknologi ini sangat penting untuk melindungi data ketika pengguna mengakses jaringan melalui koneksi publik atau jarak jauh.
     
 **5. Tantangan dalam Keamanan Jaringan**
 
