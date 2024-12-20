@@ -66,9 +66,9 @@ Dalam dunia modern, kriptografi tidak hanya berfungsi untuk menyembunyikan infor
 ### Algoritma Kriptografi
 1. **Algoritma Kriptografi Simetris**
    
-   -RSA (Rivest-Shamir-Adleman): Algoritma yang paling umum digunakan untuk enkripsi dan tanda tangan digital.
+   - **RSA (Rivest-Shamir-Adleman): Algoritma yang paling umum digunakan untuk enkripsi dan tanda tangan digital.**
    
-   -RSA (Rivest-Shamir-Adleman): Algoritma yang paling umum digunakan untuk enkripsi dan tanda tangan digital.
+   - **RSA (Rivest-Shamir-Adleman): Algoritma yang paling umum digunakan untuk enkripsi dan tanda tangan digital.**
 
 ### Aplikasi Kriptografi
 1. **Keamanan Jaringan**
