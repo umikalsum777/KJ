@@ -17,9 +17,14 @@ Penyusunan makalah ini diharapkan dapat memberikan wawasan yang bermanfaat bagi 
 Seiring dengan perkembangan teknologi yang pesat, komputer dan perangkat digital telah menjadi bagian integral dalam kehidupan sehari-hari. Penggunaan komputer tidak hanya terbatas pada pekerjaan atau pendidikan, tetapi juga mempengaruhi interaksi sosial, hiburan, dan hampir semua aspek kehidupan manusia. Namun, dengan kemajuan teknologi ini, muncul pula tantangan baru terkait dengan etika penggunaan komputer. Etika penggunaan komputer mengacu pada prinsip-prinsip moral yang mengatur cara kita berinteraksi dengan perangkat digital dan informasi yang ada di dalamnya. Makalah ini bertujuan untuk memahami pentingnya etika dalam penggunaan komputer, mengidentifikasi isu-isu etika yang muncul, serta memberikan rekomendasi terkait penggunaan komputer yang bertanggung jawab.
 
 ### Definisi Etika Penggunaan Komputer
-   - Algoritma enkripsi simetris dan asimetris  
-   - Hashing dan tanda tangan digital  
-   - Sertifikat digital dan infrastruktur kunci publik (PKI)  
+
+Etika penggunaan komputer adalah seperangkat prinsip dan pedoman yang mengatur cara individu dan kelompok menggunakan teknologi informasi secara benar, adil, dan bertanggung jawab. Hal ini mencakup berbagai aspek, seperti privasi, keamanan data, hak cipta, dan dampak sosial dari penggunaan teknologi informasi. Dalam konteks ini, etika juga melibatkan tanggung jawab moral terhadap dampak yang dapat ditimbulkan oleh penggunaan teknologi pada individu dan masyarakat.
+
+A. **isu-isu etika penggunaan komputer**
+
+   -Privasi dan Keamanan data
+   
+   Isu privasi dan keamanan data merupakan salah satu tantangan utama dalam penggunaan komputer. Dalam era digital, data pribadi dan informasi sensitif sering kali menjadi sasaran peretasan atau penyalahgunaan. Pengguna komputer, baik individu maupun organisasi, memiliki tanggung jawab untuk melindungi informasi pribadi dengan cara yang aman dan terjaga. Pelanggaran terhadap privasi, seperti pencurian data atau pengumpulan data tanpa izin, dapat merugikan individu dan merusak kepercayaan publik. Oleh karena itu, penting bagi pengguna untuk memahami pentingnya menjaga keamanan data pribadi serta bagi organisasi untuk menerapkan kebijakan yang memadai untuk melindungi informasi tersebut.
 
 3. **Keamanan Sistem Operasi**
    - Model keamanan sistem operasi  
