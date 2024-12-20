@@ -5,11 +5,15 @@ author:
 published: true
 ---
 
-## Keamanan Sistem dan Jaringan Komputer
+## Kata pengantar
 
-Mata kuliah **Keamanan Sistem dan Jaringan Komputer** bertujuan untuk memberikan pemahaman mendalam mengenai prinsip-prinsip, teknik, dan alat yang digunakan untuk melindungi sistem komputer dan jaringan dari berbagai ancaman keamanan.
+Di era digital yang semakin berkembang pesat, komputer dan teknologi informasi memainkan peran yang sangat penting dalam kehidupan sehari-hari. Teknologi ini memudahkan berbagai aktivitas, mulai dari komunikasi, pekerjaan, pendidikan, hingga hiburan. Namun, seiring dengan pesatnya penggunaan teknologi, muncul pula berbagai tantangan etika yang harus diperhatikan oleh setiap pengguna. Etika penggunaan komputer menjadi hal yang sangat relevan untuk memastikan bahwa teknologi digunakan dengan cara yang bertanggung jawab, tidak merugikan orang lain, dan mematuhi prinsip-prinsip moral yang berlaku.
+Makalah ini disusun untuk memberikan pemahaman yang lebih mendalam mengenai etika penggunaan komputer, yang mencakup berbagai isu seperti perlindungan privasi, keamanan data, hak cipta, dan tanggung jawab pengguna dalam dunia maya. Selain itu, makalah ini juga bertujuan untuk menyoroti pentingnya kesadaran etika dalam penggunaan teknologi untuk menciptakan lingkungan digital yang lebih aman, adil, dan bermanfaat bagi semua pihak.
+Penyusunan makalah ini diharapkan dapat memberikan wawasan yang bermanfaat bagi pembaca dalam memahami dan menerapkan etika penggunaan komputer dengan bijak. Dengan demikian, diharapkan setiap individu dapat menjadi pengguna teknologi yang bertanggung jawab, serta mampu menghadapi tantangan etika yang muncul seiring dengan perkembangan dunia digital yang terus berubah 4o min
+
 
 ### Pendahuluan
+
 Seiring dengan perkembangan teknologi yang pesat, komputer dan perangkat digital telah menjadi bagian integral dalam kehidupan sehari-hari. Penggunaan komputer tidak hanya terbatas pada pekerjaan atau pendidikan, tetapi juga mempengaruhi interaksi sosial, hiburan, dan hampir semua aspek kehidupan manusia. Namun, dengan kemajuan teknologi ini, muncul pula tantangan baru terkait dengan etika penggunaan komputer. Etika penggunaan komputer mengacu pada prinsip-prinsip moral yang mengatur cara kita berinteraksi dengan perangkat digital dan informasi yang ada di dalamnya. Makalah ini bertujuan untuk memahami pentingnya etika dalam penggunaan komputer, mengidentifikasi isu-isu etika yang muncul, serta memberikan rekomendasi terkait penggunaan komputer yang bertanggung jawab.
 
 2. **Kriptografi**
