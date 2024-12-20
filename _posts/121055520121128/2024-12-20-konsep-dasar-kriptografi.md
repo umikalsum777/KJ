@@ -47,16 +47,20 @@ Dalam dunia modern, kriptografi tidak hanya berfungsi untuk menyembunyikan infor
    Keaslian memastikan bahwa pengirim informasi adalah pihak yang sah dan bukan penipu.
       
 7. **Non-Repudiation**
+   
    Non-repudiation adalah kemampuan untuk membuktikan bahwa suatu tindakan telah dilakukan, sehingga pihak yang terlibat tidak dapat membantahnya.
 
 ### Jenis-Jenis Kriptografi
 1. **Kriptografi Simetris**
+   
    Kriptografi simetris menggunakan kunci yang sama untuk enkripsi dan dekripsi. Contoh algoritma yang digunakan adalah DES dan AES.
       
-2. **Kriptografi Asimetris**
+3. **Kriptografi Asimetris**
+   
    Kriptografi asimetris menggunakan sepasang kunci, yaitu kunci publik dan kunci privat. RSA adalah salah satu algoritma yang paling terkenal dalam kategori ini.
    
-3. **Kriptografi Hibrida**
+5. **Kriptografi Hibrida**
+   
    Kriptografi hibrida menggabungkan kedua metode di atas untuk memanfaatkan kelebihan masing-masing. Ini sering digunakan dalam protokol keamanan seperti SSL/TLS.
 
 ### Algoritma Kriptografi
@@ -68,41 +72,53 @@ Dalam dunia modern, kriptografi tidak hanya berfungsi untuk menyembunyikan infor
 
 ### Aplikasi Kriptografi
 1. **Keamanan Jaringan**
+   
    Kriptografi digunakan untuk melindungi data yang ditransmisikan melalui jaringan, seperti dalam protokol HTTPS.
       
-2. **E-Commerce**
+3. **E-Commerce**
+   
    Dalam transaksi e-commerce, kriptografi digunakan untuk melindungi informasi sensitif seperti nomor kartu kredit dan data pribadi. Protokol seperti SSL/TLS memastikan bahwa data yang dikirim antara pengguna dan situs web aman dari penyadapan.
       
-3. **Komunikasi Aman**
+5. **Komunikasi Aman**
+   
    Aplikasi pesan instan dan email menggunakan kriptografi untuk memastikan bahwa komunikasi antara pengguna tetap rahasia. Contoh aplikasi yang menggunakan enkripsi end-to-end adalah WhatsApp dan Signal.
       
-4. **Tanda Tangan Digital**
+7. **Tanda Tangan Digital**
+   
    Tanda tangan digital menggunakan kriptografi asimetris untuk memberikan keaslian dan integritas pada dokumen elektronik. Ini sangat penting dalam konteks hukum dan bisnis, di mana bukti digital diperlukan.
       
-5. **Penyimpanan Data**
+9. **Penyimpanan Data**
+    
    Kriptografi juga digunakan untuk melindungi data yang disimpan, baik di perangkat lokal maupun di cloud. Enkripsi disk dan enkripsi file adalah metode yang umum digunakan untuk menjaga kerahasiaan data.
 
 ### Tantangan Data Kriptografi
 1. **Serangan Kriptografi**
+   
    Meskipun kriptografi dirancang untuk melindungi data, ada berbagai jenis serangan yang dapat mengancam keamanan sistem. Serangan seperti brute force, serangan man-in-the-middle, dan serangan side-channel dapat mengeksploitasi kelemahan dalam algoritma atau implementasi kriptografi.
       
-2. **Manajemen Kunci**
+3. **Manajemen Kunci**
+   
    Salah satu tantangan terbesar dalam kriptografi adalah manajemen kunci. Kunci yang hilang atau dicuri dapat mengakibatkan kebocoran data. Oleh karena itu, penting untuk memiliki sistem yang aman untuk menghasilkan, menyimpan, dan mendistribusikan kunci.
       
-3. **Keterbatasan Sumber Daya**
+5. **Keterbatasan Sumber Daya**
+   
    Beberapa algoritma kriptografi, terutama yang menggunakan kunci panjang, dapat memerlukan sumber daya komputasi yang signifikan. Ini dapat menjadi masalah pada perangkat dengan kapasitas terbatas, seperti perangkat IoT.
       
-4. **Regulasi dan Kepatuhan**
+7. **Regulasi dan Kepatuhan**
+   
    Dengan meningkatnya perhatian terhadap privasi dan keamanan data, banyak negara telah mengeluarkan regulasi yang mengatur penggunaan kriptografi. Organisasi harus memastikan bahwa mereka mematuhi regulasi ini, yang dapat bervariasi dari satu negara ke negara lain.
 
 ### Masa Depan Kriptografi
 1. **Kriptografi Kuantum**
+   
    Dengan kemajuan dalam komputasi kuantum, ada kekhawatiran bahwa algoritma kriptografi saat ini, seperti RSA, dapat dengan mudah dipecahkan oleh komputer kuantum. Penelitian sedang dilakukan untuk mengembangkan algoritma kriptografi kuantum yang dapat bertahan terhadap serangan ini.
       
-2. **Blockchain dan Kriptografi**
+3. **Blockchain dan Kriptografi**
+   
    Teknologi blockchain, yang mendasari cryptocurrency seperti Bitcoin, menggunakan kriptografi untuk memastikan keamanan dan integritas transaksi. Masa depan kriptografi akan sangat dipengaruhi oleh perkembangan teknologi blockchain dan aplikasi desentralisasi lainnya.
       
-3. **Peningkataan Kesadaran Keamanan**
+5. **Peningkataan Kesadaran Keamanan**
+   
    Seiring dengan meningkatnya ancaman terhadap keamanan informasi, kesadaran akan pentingnya kriptografi dan praktik keamanan yang baik akan terus meningkat. Pendidikan dan pelatihan tentang kriptografi akan menjadi semakin penting bagi individu dan organisasi.
 
 ### Kesimpulan
