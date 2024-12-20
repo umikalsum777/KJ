@@ -16,7 +16,7 @@ Penyusunan makalah ini diharapkan dapat memberikan wawasan yang bermanfaat bagi 
 
 Seiring dengan perkembangan teknologi yang pesat, komputer dan perangkat digital telah menjadi bagian integral dalam kehidupan sehari-hari. Penggunaan komputer tidak hanya terbatas pada pekerjaan atau pendidikan, tetapi juga mempengaruhi interaksi sosial, hiburan, dan hampir semua aspek kehidupan manusia. Namun, dengan kemajuan teknologi ini, muncul pula tantangan baru terkait dengan etika penggunaan komputer. Etika penggunaan komputer mengacu pada prinsip-prinsip moral yang mengatur cara kita berinteraksi dengan perangkat digital dan informasi yang ada di dalamnya. Makalah ini bertujuan untuk memahami pentingnya etika dalam penggunaan komputer, mengidentifikasi isu-isu etika yang muncul, serta memberikan rekomendasi terkait penggunaan komputer yang bertanggung jawab.
 
-2. **Kriptografi**
+### Definisi Etika Penggunaan Komputer
    - Algoritma enkripsi simetris dan asimetris  
    - Hashing dan tanda tangan digital  
    - Sertifikat digital dan infrastruktur kunci publik (PKI)  
