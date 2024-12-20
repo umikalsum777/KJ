@@ -86,7 +86,17 @@ Pendidikan etika teknologi tidak hanya berkaitan dengan aspek moral dan hukum, t
 
 ### Kesimpulan
 
+Etika penggunaan komputer sangat penting dalam memastikan bahwa teknologi digunakan secara bertanggung jawab dan memberikan manfaat yang maksimal bagi masyarakat. Pengguna komputer harus memahami dan menerapkan prinsip-prinsip etika, seperti perlindungan privasi, penghormatan terhadap hak cipta, dan menghindari penyebaran informasi palsu. Melalui pendidikan dan kebijakan yang tepat, kita dapat menciptakan lingkungan digital yang aman, adil, dan bermanfaat bagi semua pihak
+
+### Daftar pustaka
+
+1.	Zohra, F., & Faisal, S. (2020). Ethical implications of data privacy and security in the digital era. Journal of Information Security, 15(4), 125-138.
+2.	Raza, M., & Ahmad, A. (2021). The ethics of intellectual property rights in the digital age. International Journal of Computer Science and Technology, 9(3), 45-52.
+3.	Javed, M., & Shah, S. (2022). The role of ethical guidelines in combating fake news and misinformation on social media. Journal of Media Ethics, 27(1), 70-83.
+4.	Lee, S., & Lee, H. (2023). Ethical implications of cybersecurity in the digital world. Cybersecurity Journal, 18(2), 104-116.
+5.	Bates, R., & O’Neil, S. (2021). Bridging the digital divide: Ethical considerations in providing equal access to technology. Technology and Society, 19(4), 112-125.
+
 
 ---
 - From: GGAI
-- By: Ikhwan Elyas
+- By: SURYANTI TAMRIN
