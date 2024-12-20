@@ -22,7 +22,7 @@ Etika penggunaan komputer adalah seperangkat prinsip dan pedoman yang mengatur c
 
 A. **isu-isu etika penggunaan komputer**
 
-   -Privasi dan Keamanan data
+###-Privasi dan Keamanan data
    
    Isu privasi dan keamanan data merupakan salah satu tantangan utama dalam penggunaan komputer. Dalam era digital, data pribadi dan informasi sensitif sering kali menjadi sasaran peretasan atau penyalahgunaan. Pengguna komputer, baik individu maupun organisasi, memiliki tanggung jawab untuk melindungi informasi pribadi dengan cara yang aman dan terjaga. Pelanggaran terhadap privasi, seperti pencurian data atau pengumpulan data tanpa izin, dapat merugikan individu dan merusak kepercayaan publik. Oleh karena itu, penting bagi pengguna untuk memahami pentingnya menjaga keamanan data pribadi serta bagi organisasi untuk menerapkan kebijakan yang memadai untuk melindungi informasi tersebut.
 
