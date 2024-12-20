@@ -127,15 +127,15 @@ Kriptografi adalah komponen kunci dalam menjaga keamanan informasi di era digita
 
 ### Referensi
 
--Stallings, W. (2017). Cryptography and Network Security: Principles and Practice. Pearson. 
+- **Stallings, W. (2017). Cryptography and Network Security: Principles and Practice. Pearson.**
 
--Katz, J., & Lindell, Y. (2014). Introduction to Modern Cryptography: Principles and Protocols. CRC Press. 
+- **Katz, J., & Lindell, Y. (2014). Introduction to Modern Cryptography: Principles and Protocols. CRC Press.** 
 
--Schneier, B. (2015). Secrets and Lies: Digital Security in a Networked World. Wiley. 
+- **Schneier, B. (2015). Secrets and Lies: Digital Security in a Networked World. Wiley.** 
 
--Diffie, W., & Hellman, M. (1976). "New Directions in Cryptography." IEEE Transactions on Information Theory, 22(6), 644-654. 
+- **Diffie, W., & Hellman, M. (1976). "New Directions in Cryptography." IEEE Transactions on Information Theory, 22(6), 644-654.** 
 
--NIST. (2019). "Recommendation for Key Management." Retrieved from NIST.
+- **NIST. (2019). "Recommendation for Key Management." Retrieved from NIST.**
 
--Kahn, D. (1996). The Codebreakers: The Story of Secret Writing. Scribner. Rivest, R. L., Shamir, A., & Adleman, L. (1978)
+- **Kahn, D. (1996). The Codebreakers: The Story of Secret Writing. Scribner. Rivest, R. L., Shamir, A., & Adleman, L. (1978)**
 
