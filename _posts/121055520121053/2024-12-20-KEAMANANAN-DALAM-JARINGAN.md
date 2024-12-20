@@ -29,25 +29,42 @@ Pentingnya keamanan jaringan juga didukung oleh regulasi seperti GDPR (General D
 **2. Ancaman terhadap Keamanan Jaringan**
 
 Berbagai ancaman yang dapat mengganggu keamanan jaringan meliputi:
-2.1 Malware
+**2.1 Malware**
+Malware adalah perangkat lunak berbahaya yang dirancang untuk merusak atau mengakses data tanpa izin. Jenis-jenis malware meliputi:
 
-Malware adalah perangkat lunak berbahaya yang dirancang untuk merusak atau mengakses data tanpa izin. Contoh malware meliputi virus, worm, trojan, dan spyware.
+Virus: Menyisipkan dirinya ke dalam program atau file dan menyebar ke perangkat lain.
+Worm: Menyebar secara otomatis melalui jaringan tanpa memerlukan host.
+Trojan Horse: Menyamar sebagai perangkat lunak yang sah untuk mengelabui pengguna.
+Ransomware: Mengenkripsi data korban dan meminta tebusan untuk membuka kunci.
+Spyware: Mengintai aktivitas pengguna untuk mencuri informasi pribadi.
 
-2.2 Phishing
+**2.2 Phishing**
+Phishing adalah serangan yang bertujuan mencuri informasi sensitif, seperti kata sandi, nomor kartu kredit, atau data pribadi, dengan cara mengelabui pengguna melalui email, pesan teks, atau situs web palsu. Phishing sering kali menggunakan taktik sosial untuk membuat korban percaya bahwa pesan tersebut berasal dari sumber terpercaya.
 
-Phishing adalah metode yang digunakan untuk mencuri informasi sensitif, seperti kata sandi atau informasi kartu kredit, melalui email atau situs web palsu.
+**2.3 Serangan DDoS**
+Serangan DDoS dilakukan dengan membanjiri server atau jaringan dengan lalu lintas palsu sehingga layanan menjadi tidak dapat diakses oleh pengguna yang sah. Serangan ini sering kali melibatkan botnet, yaitu jaringan perangkat yang telah dikompromikan.
 
-2.3 Serangan DDoS
+**2.4 Insider Threats**
+Ancaman dari dalam jaringan dapat berasal dari karyawan atau pihak internal yang memiliki akses ke sistem. Ancaman ini dapat berupa tindakan disengaja, seperti sabotase, atau kelalaian, seperti membagikan kata sandi secara tidak sengaja.
 
-Serangan Distributed Denial of Service (DDoS) bertujuan untuk melumpuhkan jaringan dengan membanjiri server dengan lalu lintas palsu.
+**2.5 Peretasan**
+Peretasan adalah upaya untuk mengakses jaringan atau sistem tanpa izin. Peretas dapat mencuri data, mengubah informasi, atau merusak sistem. Jenis-jenis peretasan meliputi:
 
-2.4 Insider Threats
+Brute Force Attack: Upaya menebak kata sandi dengan mencoba berbagai kombinasi.
+SQL Injection: Memasukkan kode berbahaya ke dalam aplikasi untuk mencuri data dari database.
+Man-in-the-Middle Attack: Menyadap komunikasi antara dua pihak untuk mencuri informasi.
 
-Ancaman dari dalam, seperti karyawan yang tidak puas atau tidak hati-hati, juga dapat merusak keamanan jaringan.
+**2.6 Advanced Persistent Threats (APT)**
+APT adalah serangan yang dirancang untuk menyusup ke jaringan dalam jangka waktu yang lama tanpa terdeteksi. Penyerang biasanya memiliki tujuan tertentu, seperti mencuri data rahasia atau memata-matai organisasi.
 
-2.5 Peretasan
+Penanganan dan Pencegahan Ancaman
+Mengatasi ancaman terhadap keamanan jaringan memerlukan kombinasi teknologi, kebijakan, dan kesadaran pengguna. Langkah-langkah utama meliputi:
 
-Peretasan melibatkan upaya untuk mengakses sistem tanpa izin, baik untuk mencuri data maupun untuk merusak sistem.
+Menggunakan firewall, antivirus, dan sistem deteksi intrusi.
+Memperbarui perangkat lunak secara rutin.
+Mengedukasi pengguna tentang ancaman seperti phishing dan social engineering.
+Menggunakan autentikasi multifaktor (MFA) untuk mengamankan akses ke jaringan.
+Memantau aktivitas jaringan secara real-time untuk mendeteksi aktivitas mencurigakan.
     
 **3. Langkah-Langkah Keamanan dalam Jaringan**
 
