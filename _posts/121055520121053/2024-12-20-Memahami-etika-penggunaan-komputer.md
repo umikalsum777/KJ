@@ -1,8 +1,8 @@
 ---
 title: Keamana Sistem & Jaringan Komputer V1
 category: Materi
-author: 
-published: true
+author: suryanti tamrin
+NPM : 121055520121053
 ---
 
 ## Kata pengantar
