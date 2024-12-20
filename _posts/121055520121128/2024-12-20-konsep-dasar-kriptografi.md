@@ -22,25 +22,31 @@ Dalam dunia modern, kriptografi tidak hanya berfungsi untuk menyembunyikan infor
 
 ### Sejarah Kriptografi
 1. **Kiptografi Kuno**
+   
    Kriptografi telah ada sejak zaman kuno, dengan bukti penggunaan teknik penyandian yang ditemukan dalam tulisan-tulisan Mesir kuno dan Roma. Salah satu metode paling awal adalah penggunaan substitusi sederhana, di mana huruf dalam pesan diganti dengan huruf lain.
       
 3. **Kiptografi pada abad pertengahan**
+   
    Pada abad pertengahan, kriptografi mulai berkembang dengan penggunaan teknik yang lebih kompleks, seperti metode Vigenère, yang menggunakan kunci untuk mengenkripsi pesan. Ini menandai awal dari kriptografi modern. Ancaman, kerentanan, dan risiko 
 
 5. **Kiptografi modern**
+   
    Dengan munculnya komputer dan teknologi digital, kriptografi mengalami revolusi. Algoritma kriptografi modern, seperti RSA dan AES, dikembangkan untuk memenuhi kebutuhan keamanan informasi di era digital.
       
 ### Prinsip-prinsip dasar kriptografi
 1. **Kerahasiaan**
+   
    Kerahasiaan adalah prinsip utama kriptografi, yang memastikan bahwa hanya pihak yang berwenang yang dapat mengakses informasi.
       
-2. **Integritas**
+3. **Integritas**
+   
    Integritas menjamin bahwa data tidak diubah atau dimanipulasi selama proses transmisi.
    
-3. **Keaslian**
+5. **Keaslian**
+   
    Keaslian memastikan bahwa pengirim informasi adalah pihak yang sah dan bukan penipu.
       
-4. **Non-Repudiation**
+7. **Non-Repudiation**
    Non-repudiation adalah kemampuan untuk membuktikan bahwa suatu tindakan telah dilakukan, sehingga pihak yang terlibat tidak dapat membantahnya.
 
 ### Jenis-Jenis Kriptografi
