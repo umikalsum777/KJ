@@ -4,12 +4,35 @@
  <title>KS & Jarkom</title>
  <link href="http://192.168.10.4:4000/atom.xml" rel="self"/>
  <id>http://192.168.10.4:4000</id>
- <updated>2024-12-20T21:57:54+00:00</updated>
+ <updated>2024-12-21T17:46:43+00:00</updated>
  <author>
    <name>Info UMMU Ternate</name>
    <uri>https://infoummu.github.io</uri>
    <email>elyas.uii14@gmail.com</email>
  </author>
+
+ 
+
+ <entry>
+   <title>Pak Ikhwan latihan pull reques</title>
+   <link href="http://192.168.10.4:4000/keamanan-jaringan-dan-pengamanan-port"/>
+   <id>http://192.168.10.4:4000/keamanan-jaringan-dan-pengamanan-port</id>
+   <updated>2024-12-20T00:00:00+00:00</updated>
+   <content type="html">&lt;h2 id=&quot;tema&quot;&gt;tema&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;isi dan penjelasan materi tugas makalah anda&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;sub-tema&quot;&gt;sub tema&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;isi dan penjelasan materi tugas makalah anda&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;dan seterusnya&lt;/li&gt;
+  &lt;li&gt;ini pull reques yang kedua&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
 
  
 
