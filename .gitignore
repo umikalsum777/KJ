@@ -18,4 +18,8 @@ _book
 Gemfile
 Gemfile.lock
 file_exclude_rsync.txt
-_site/*
+*site/*
+*_site
+*site
+._site/
+
