@@ -1,8 +1,8 @@
 ---
 title: Keamana Sistem & Jaringan Komputer 
 category: Materi
-author
-NPM : 
+author: Ikhwan Elyas
+published: true
 ---
 
 ## KEAMANANAN DALAM JARINGAN
