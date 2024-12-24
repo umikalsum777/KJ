@@ -67,7 +67,7 @@ Etika komputer adalah studi tentang bagaimana seseorang harus bertindak saat ber
 ## KESIMPULAN
 Etika komputer adalah bidang yang sangat penting dalam era digital ini. Dengan adanya teknologi komputer yang semakin maju, isu-isu etika terkait dengan privasi, keamanan, hak cipta, dan tanggung jawab sosial menjadi sangat relevan. Setiap pengguna teknologi, baik individu maupun organisasi, harus bertindak secara etis dan bertanggung jawab untuk memastikan bahwa teknologi digunakan dengan cara yang baik dan tidak merugikan orang lain. Pendidikan etika komputer dan pengembangan kebijakan yang jelas sangat diperlukan untuk memastikan bahwa penggunaan teknologi membawa manfaat positif bagi masyarakat.
 
-## DAFTAR PUSTAKA
+## REFERENSI
 
 1.	Bynum, T. W. (2014). Cyberethics: Morality and Law in Cyberspace (4th ed.). Pearson Education.
 2.	Spinello, R. A. (2018). Cyberethics: Morality and Law in Cyberspace (5th ed.). Pearson.
