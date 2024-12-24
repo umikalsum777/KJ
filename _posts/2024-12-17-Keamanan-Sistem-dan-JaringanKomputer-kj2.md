@@ -1,11 +1,11 @@
 ---
-title: Keamana Sistem & Jaringan Komputer V2
+title: Keamana Sistem & Jaringan Komputer 
 category: Materi
-author: Ikhwan Elyas
-published: true
+author
+NPM : 
 ---
 
-## Keamanan Sistem dan Jaringan Komputer
+## KEAMANANAN DALAM JARINGAN
 
 ### Deskripsi Mata Kuliah
 Keamanan Sistem dan Jaringan Komputer adalah mata kuliah yang mempelajari berbagai teknik, metode, dan alat untuk melindungi sistem dan jaringan komputer dari berbagai ancaman siber. Mata kuliah ini sangat penting mengingat semakin tingginya ketergantungan kita pada teknologi digital dan semakin canggihnya serangan siber yang terjadi.
