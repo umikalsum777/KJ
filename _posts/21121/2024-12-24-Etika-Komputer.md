@@ -71,7 +71,7 @@ Etika komputer adalah bidang yang sangat penting dalam era digital ini. Dengan a
 
 1.	Bynum, T. W. (2014). Cyberethics: Morality and Law in Cyberspace (4th ed.). Pearson Education.
 2.	Spinello, R. A. (2018). Cyberethics: Morality and Law in Cyberspace (5th ed.). Pearson.
-3.	  Johnson, D. G. (2014). Computer Ethics (4th ed.). Pearson.
+3.	Johnson, D. G. (2014). Computer Ethics (4th ed.). Pearson.
 4.	Tavani, H. T. (2016). Ethics and Technology: Controversies, Questions, and Strategies for Ethical Computing (5th ed.). Wiley.
 5.	Himma, K. E. (2009). Information Ethics: Privacy, Property, and Power. Springer.
 
