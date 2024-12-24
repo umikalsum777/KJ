@@ -1,5 +1,5 @@
 ---
-title: Keamanan Sistem & Jaringan Komputer
+title: konsep-dasar-kriptografi
 category: Materi
 author: Sulasri Suwarno
 Npm: 121055520121128
@@ -138,4 +138,5 @@ Kriptografi adalah komponen kunci dalam menjaga keamanan informasi di era digita
 - **NIST. (2019). "Recommendation for Key Management." Retrieved from NIST.**
 
 - **Kahn, D. (1996). The Codebreakers: The Story of Secret Writing. Scribner. Rivest, R. L., Shamir, A., & Adleman, L. (1978)**
+
 
