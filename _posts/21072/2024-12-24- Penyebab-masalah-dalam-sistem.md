@@ -14,7 +14,7 @@ Sistem adalah kumpulan elemen yang saling berinteraksi untuk mencapai tujuan ter
 Sistem dapat didefinisikan sebagai suatu kesatuan yang terdiri dari komponen-komponen yang saling berinteraksi dan berfungsi untuk mencapai tujuan tertentu. Sistem dapat berupa sistem fisik, sistem informasi, sistem sosial, dan lain-lain. Setiap sistem memiliki input, proses, output, dan umpan balik yang berfungsi untuk menjaga keseimbangan dan efektivitas sistem.
 
 
-## A. Penyebab Masalah dalam Sistem
+## Penyebab Masalah dalam Sistem
       Masalah dalam sistem dapat disebabkan oleh berbagai faktor. Berikut adalah beberapa penyebab umum yang sering terjadi:
       
       1. **Faktor Manusia**
