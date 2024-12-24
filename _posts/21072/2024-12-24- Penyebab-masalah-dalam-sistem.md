@@ -15,14 +15,14 @@ Sistem dapat didefinisikan sebagai suatu kesatuan yang terdiri dari komponen-kom
 
 
 ## Penyebab Masalah dalam Sistem
-      Masalah dalam sistem dapat disebabkan oleh berbagai faktor. Berikut adalah beberapa penyebab umum yang sering terjadi:
+Masalah dalam sistem dapat disebabkan oleh berbagai faktor. Berikut adalah beberapa penyebab umum yang sering terjadi:
       
-      1. **Faktor Manusia**
-         - **Kurangnya Pelatihan: Karyawan yang tidak terlatih dapat menyebabkan kesalahan dalam penggunaan sistem.**
-         - **Komunikasi yang Buruk: Ketidakjelasan dalam komunikasi antar anggota tim dapat mengakibatkan kesalahpahaman dan konflik.**
-         - **Resistensi terhadap Perubahan: Ketidakmauan untuk menerima perubahan dalam sistem dapat menghambat inovasi dan perbaikan.**
+1. **Faktor Manusia**
+    - **Kurangnya Pelatihan: Karyawan yang tidak terlatih dapat menyebabkan kesalahan dalam penggunaan sistem.**
+    - **Komunikasi yang Buruk: Ketidakjelasan dalam komunikasi antar anggota tim dapat mengakibatkan kesalahpahaman dan konflik.**
+    - **Resistensi terhadap Perubahan: Ketidakmauan untuk menerima perubahan dalam sistem dapat menghambat inovasi dan perbaikan.**
          
-      2. **Faktor Teknologi**
+ 2. **Faktor Teknologi**
          - **Keterbatasan Teknologi: Sistem yang menggunakan teknologi usang atau tidak memadai dapat menyebabkan kinerja yang buruk.**
          - **Kesalahan Sistem: Bug atau kesalahan dalam perangkat lunak dapat mengganggu fungsi sistem.**
          - **Keamanan Data: Ancaman terhadap keamanan data dapat menyebabkan kebocoran informasi dan kerugian.**
