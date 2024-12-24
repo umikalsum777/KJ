@@ -52,5 +52,5 @@ Setelah menyelesaikan mata kuliah ini, mahasiswa diharapkan mampu:
 5. Memahami aspek hukum dan etika terkait keamanan siber. 
 
 ---
-- From: GGAI
+- From: CGAI
 - By: Ikhwan Elyas
