@@ -23,19 +23,19 @@ Masalah dalam sistem dapat disebabkan oleh berbagai faktor. Berikut adalah beber
     - **Resistensi terhadap Perubahan: Ketidakmauan untuk menerima perubahan dalam sistem dapat menghambat inovasi dan perbaikan.**
          
  2. **Faktor Teknologi**
-         - **Keterbatasan Teknologi: Sistem yang menggunakan teknologi usang atau tidak memadai dapat menyebabkan kinerja yang buruk.**
-         - **Kesalahan Sistem: Bug atau kesalahan dalam perangkat lunak dapat mengganggu fungsi sistem.**
-         - **Keamanan Data: Ancaman terhadap keamanan data dapat menyebabkan kebocoran informasi dan kerugian.**
+    - **Keterbatasan Teknologi: Sistem yang menggunakan teknologi usang atau tidak memadai dapat menyebabkan kinerja yang buruk.**
+    - **Kesalahan Sistem: Bug atau kesalahan dalam perangkat lunak dapat mengganggu fungsi sistem.**
+    - **Keamanan Data: Ancaman terhadap keamanan data dapat menyebabkan kebocoran informasi dan kerugian.**
          
-      3. **Faktor Proses**
-         - **Prosedur yang Tidak Jelas: Proses yang tidak terdefinisi dengan baik dapat menyebabkan kebingungan dan ketidakefektifan.**
-         - **Kurangnya Umpan Balik: Tanpa umpan balik yang memadai, sistem tidak dapat melakukan perbaikan yang diperlukan.**
-         - **Overload: Beban kerja yang berlebihan dapat menyebabkan penurunan kinerja sistem.**
+ 3. **Faktor Proses**
+    - **Prosedur yang Tidak Jelas: Proses yang tidak terdefinisi dengan baik dapat menyebabkan kebingungan dan ketidakefektifan.**
+    - **Kurangnya Umpan Balik: Tanpa umpan balik yang memadai, sistem tidak dapat melakukan perbaikan yang diperlukan.**
+    - **Overload: Beban kerja yang berlebihan dapat menyebabkan penurunan kinerja sistem.**
 
-      4. **Faktor Lingkungan**
-         - **Perubahan Regulasi: Perubahan dalam kebijakan atau regulasi dapat mempengaruhi cara sistem beroperasi.**
-         - **Persaingan Pasar: Persaingan yang ketat dapat memaksa sistem untuk beradaptasi dengan cepat, yang kadang-kadang dapat menyebabkan masalah.**
-         - **Kondisi Ekonomi: Fluktuasi ekonomi dapat mempengaruhi sumber daya yang tersedia untuk sistem.**
+ 4. **Faktor Lingkungan**
+    - **Perubahan Regulasi: Perubahan dalam kebijakan atau regulasi dapat mempengaruhi cara sistem beroperasi.**
+    - **Persaingan Pasar: Persaingan yang ketat dapat memaksa sistem untuk beradaptasi dengan cepat, yang kadang-kadang dapat menyebabkan masalah.**
+    - **Kondisi Ekonomi: Fluktuasi ekonomi dapat mempengaruhi sumber daya yang tersedia untuk sistem.**
 
 ## B. Dampak Masalah dalam Sistem
       Masalah dalam sistem dapat memiliki dampak yang signifikan, antara lain:
