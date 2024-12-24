@@ -1,5 +1,5 @@
 ---
-title: Keamana Sistem & Jaringan Komputer V2
+title:Memahami dasar dasar ganguan keamanan komputer berserta akibatnya
 category: Materi
 author: M fahri aswad
 NMP : 121055520121051
