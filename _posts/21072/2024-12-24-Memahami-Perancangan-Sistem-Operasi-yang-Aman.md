@@ -25,31 +25,32 @@ Keamanan sistem operasi sangat penting karena:
 Perancangan sistem operasi yang aman harus mengikuti beberapa prinsip dasar, antara lain:
 
 A. **Least Privilege**
-Prinsip ini menyatakan bahwa setiap pengguna atau program harus diberikan hak akses minimum yang diperlukan untuk menjalankan tugasnya. Dengan membatasi hak akses, risiko penyalahgunaan dapat diminimalkan.
+   Prinsip ini menyatakan bahwa setiap pengguna atau program harus diberikan hak akses minimum yang diperlukan untuk menjalankan tugasnya. Dengan membatasi hak akses, risiko penyalahgunaan dapat diminimalkan.
 
 B. **Defense in Depth**
-Pendekatan ini melibatkan penggunaan beberapa lapisan keamanan untuk melindungi sistem. Jika satu lapisan gagal, lapisan lain masih dapat memberikan perlindungan. Contohnya termasuk penggunaan firewall, antivirus, dan enkripsi.
+   Pendekatan ini melibatkan penggunaan beberapa lapisan keamanan untuk melindungi sistem. Jika satu lapisan gagal, lapisan lain masih dapat memberikan perlindungan. Contohnya termasuk penggunaan firewall, antivirus, 
+   dan enkripsi.
 
 C. **Fail-Safe Defaults**
-Sistem harus dirancang dengan pengaturan default yang aman. Jika terjadi kesalahan konfigurasi, sistem harus tetap dalam keadaan aman.
+   Sistem harus dirancang dengan pengaturan default yang aman. Jika terjadi kesalahan konfigurasi, sistem harus tetap dalam keadaan aman.
 
 D. **Separation of Duties**
-Prinsip ini menyatakan bahwa tugas-tugas kritis harus dibagi di antara beberapa individu atau sistem untuk mencegah penyalahgunaan kekuasaan.
+   Prinsip ini menyatakan bahwa tugas-tugas kritis harus dibagi di antara beberapa individu atau sistem untuk mencegah penyalahgunaan kekuasaan.
 
 ## Praktik Perancangan Sistem Operasi yang Aman
 Beberapa praktik yang dapat diterapkan dalam perancangan sistem operasi yang aman meliputi:
 
 A. **Penggunaan Enkripsi**
-Enkripsi data, baik saat transit maupun saat disimpan, dapat melindungi informasi sensitif dari akses yang tidak sah.
+   Enkripsi data, baik saat transit maupun saat disimpan, dapat melindungi informasi sensitif dari akses yang tidak sah.
 
 B. **Pembaruan dan Patch**
-Secara rutin memperbarui sistem operasi dan menerapkan patch keamanan adalah langkah penting untuk melindungi dari kerentanan yang diketahui.
+   Secara rutin memperbarui sistem operasi dan menerapkan patch keamanan adalah langkah penting untuk melindungi dari kerentanan yang diketahui.
 
 C. **Audit dan Monitoring**
-Melakukan audit keamanan secara berkala dan memantau aktivitas sistem dapat membantu mendeteksi dan merespons ancaman dengan cepat.
+   Melakukan audit keamanan secara berkala dan memantau aktivitas sistem dapat membantu mendeteksi dan merespons ancaman dengan cepat.
 
 D. **Pengujian Keamanan**
-Melakukan pengujian penetrasi dan analisis kerentanan untuk mengidentifikasi dan memperbaiki celah keamanan dalam sistem.
+   Melakukan pengujian penetrasi dan analisis kerentanan untuk mengidentifikasi dan memperbaiki celah keamanan dalam sistem.
 
 ## Tantangan dalam Perancangan Sistem Operasi yang Aman
 Meskipun penting, perancangan sistem operasi yang aman menghadapi beberapa tantangan, antara lain:
