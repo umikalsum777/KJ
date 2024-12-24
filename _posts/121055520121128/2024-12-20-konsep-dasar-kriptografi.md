@@ -1,5 +1,5 @@
 ---
-title: Keamanan Sistem & Jaringan Komputer
+title: konsep-dasar-kriptografi
 category: Materi
 author: Sulasri Suwarno
 Npm: 121055520121128
