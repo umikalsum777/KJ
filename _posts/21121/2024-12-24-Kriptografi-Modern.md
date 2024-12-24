@@ -4,6 +4,7 @@ category: Materi
 author: Nurfitri N. Lasida (21121)
 published: true
 ---
+
 ## KATA PENGANTAR
 Puji Syukur Kami panjatkan kehadirat Allah SWT. Yang telah melimpahkan Rahmat dan hidayahnya sehingga Kami dapat meyelesaikan Artikel ini, yang berjudul “Kriptografi Modern” shalawat serta salam tak lupa juga kita lanturkan kepada junjungan kita Nabi besar Muhammad SAW. atas berkat perjuangannya yaitu memperjuangkan manusia dari jaman kegelapan menuju jaman terang benderang seperti sekarang ini.
 
@@ -84,4 +85,3 @@ Kriptografi memiliki peran yang sangat penting dalam melindungi keamanan data di
  
      
   
-

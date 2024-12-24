@@ -29,8 +29,7 @@ layout: default
 
 	  <li class="post">
 	  	<h3><a href="{% if site.baseurl == "/" %}{{ post.url }}{% else %}{{ post.url | prepend: site.baseurl }}{% endif %}.html">{%if post.header %}{{ post.header }}{% else %}{{ post.title }}{% endif %}</a></h3>
-      	<time datetime="{{ post.date | date_to_xmlschema }}" class="by-line"> {{post.categories}}  | <i>{{ post.date | date_to_string }}</i> </time> 
-<!--		<time datetime="{{ page.date | date_to_xmlschema }}" class="by-line"> <i>{{ page.date | date_to_string }}</i> | {{post.categories}}</time> -->
+      	<time datetime="{{ post.date | date_to_xmlschema }}" class="by-line"> {{post.categories}}  | <i>{{ post.author }}</i> </time> 
 	  	 <p>{{ post.content | strip_html | truncatewords:60 }}</p> 
 	  </li>
 
@@ -38,6 +37,16 @@ layout: default
 
 
 </ul>
+
+<!--
+
+	  <li class="post">
+	  	<h3><a href="{% if site.baseurl == "/" %}{{ post.url }}{% else %}{{ post.url | prepend: site.baseurl }}{% endif %}.html">{%if post.header %}{{ post.header }}{% else %}{{ post.title }}{% endif %}</a></h3>
+      	<time datetime="{{ post.date | date_to_xmlschema }}" class="by-line"> {{post.categories}}  | <i>{{ post.date | date_to_string }}</i> </time> 
+	  	 <p>{{ post.content | strip_html | truncatewords:60 }}</p> 
+	  </li>
+-->
+
 
 <br />
 Other Post --> <a href="categories.html" title="tes....">Archive All Posts</a> ...
