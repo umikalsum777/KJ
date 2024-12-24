@@ -1,5 +1,5 @@
 ---
-title:Memahami dasar dasar ganguan keamanan komputer berserta akibatnya
+title: Memahami dasar dasar ganguan keamanan komputer berserta akibatnya
 category: Materi
 author: M fahri aswad
 NMP : 121055520121051
