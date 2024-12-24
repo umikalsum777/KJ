@@ -29,38 +29,83 @@ Melalui pemahaman yang lebih baik tentang faktor-faktor yang mempengaruhi,dihara
 ## jenis-jenis kejahatan komputer
 Sebelum membahas penyebab meningkatnya kejahatan komputer,penting untuk mengetahui berbagai jenis kejahatan yang termasuk dalam kategori ini,antara lain:
 
-1.	**Hacking: meretas sistem komputer untuk mendapatkan akses ilegal ke data atau informasi.**
-2.	**Phising: tindakan penipuan untuk mencuri data pribadi atau informasi sensitif seperti kata sandi dan nomor kartu kredit melalui email atau situs web palsu.**
-3.	**Malware: program berbahaya yang dibuat untuk merusak,mengubah,atau mencuri data dalam komputer.**
-4.	**identity Theft: pencurian identitas sesorang untuk kepentingan tertentu,misalnya untuk melakukan transaksi ilegal.**
-5.	**Cyberbullying: Tindakan intimidasi atau pelecehan yang dilakukan melalui media soial atau platfrom online lainnya.**
+1.	**Hacking**
+      meretas sistem komputer untuk mendapatkan akses ilegal ke data atau informasi.
+  	
+2.	**Phising**
+      tindakan penipuan untuk mencuri data pribadi atau informasi sensitif seperti kata sandi dan nomor kartu kredit melalui email atau situs web palsu.
+  
+3.	**Malware**
+      program berbahaya yang dibuat untuk merusak,mengubah,atau mencuri data dalam komputer.
+  	
+4.	**identity Theft**
+      pencurian identitas sesorang untuk kepentingan tertentu,misalnya untuk melakukan transaksi ilegal.
+  	
+5.	**Cyberbullying**
+   Tindakan intimidasi atau pelecehan yang dilakukan melalui media soial atau platfrom online lainnya.
 
-4. **Keamanan Jaringan Komputer**
-   - Firewall dan IDS/IPS  
-   - Keamanan protokol jaringan (IPSec, SSL/TLS)  
-   - VPN dan proxy  
+## Penyebab Meningkatnya Kejahatan komputer
+   Beberapa faktor yang menyebabkan meningkatnya kejahatan komputer di antaranya:
+   
+   1. **Kemajuan Teknologi Informasi dan komunikasi**
+      Teknologi komputer dan internet yang terus berkembang memberikan kemudahan dalam berbagai aspek kehidupan,namun juga           membuka peluang bagi para pelaku kejahtan untuk memanfaatkannya.Akses muda ke internet dan perangkat yang terhubung            memungkinkan kejahatan terjadi secara lebih luas dan cepat.
+      
+   2. **Anonymitas di Dunia Maya**
+      Salah satu daya tarik utama bagi pelaku kejahtan komputer adalah anonimitas yang diberikan oleh dunia maya.Identitas           pelaku sering kali sulit dilacak,seghingga mereka lebih aman dalam melakukan tindak kejahtan tapa takut                        tertangkap.Internet memungkinkan pelaku melakukan tindakan ilegal tanpa harup bertatap muka langsung dengan korban
+      
+   3. **Keterbatasan Hukum dan Penegakan Hukum**
+      Di banyak negara, hukum yang mengatur kejahtan komputer masih terbatas atau belum sepenuhnya berkembang.Hal ini membuat        penegakan hukum terhadap pelaku cybercrime menjadi lebih sulit.Peraturan yang tidak jelas atau tidak sesuai dengan 
+      perkembangan teknologi mempermudah pelaku untuk melarikan diri dari hukum.
+      
+   4. **Tindak Pendidikan dan Kesadaran Yang Rendah**
+      Kurangnya pemahaman tentang bahaya kejahtan komputer din kalangan masyarakat,terutama di kalangan pengguna internet yang       tidak terlalu paham teknologi,menjadi salah satu penyebab meningkatnya serangan siber.Banyak orang tidak menyadari cara 
+      melindungi data pribadi atau bagaimana mengenali upaya penipuan di dunia maya.
+      
+   5. **Peluang Ekonomi**
+      Kejahatan ekonomi sering kali dilakukan karena adanya peluang ekonomi yang besar.Misalnya,pencurian, data pribadi atau 
+      informasi keuangan dapat digunakan untuk keuntungan pribadi.seperti kartu kredit tahu pemerasan.
+      
+   6. **Kelemahan keamanan Sistem**
+      Banyak organisasi atau individu yang belum menerapkan sistem keamanan yang memadai pada perangkat komputer atau jaringan       mereka.Kelemahan-kelemahan ini,seperti perangkat lunak yang tidak diperbaruhi,pengguna kata sandi yang lemah, atau             kurangnya perlindungan dari perangkat lunak antivirus,sering dimanfaatkan oleh pelaku kejahatan untuk masuk kedalam            sistem dan mencuri data atau merusak perangkat.
+      
+   7. **Kurangnya Pendidikan dan Pelatihan Keamanan Siber**
+      Banyak organisasi atau individu yang masi kurang memahami pentingnya langkah-langkah untuk melindungi data dan informasi       pribadi mereka didunia maya.Banyak orang yang mengabaikan.Ketidaktahuan ini menjadi celah yang dimanfaatkan oleh pelaku        kejahatan untuk melakukan seramgan seperti phising,malware,dan pencurian data.
 
-5. **Serangan Siber dan Pertahanan**
-   - Jenis-jenis serangan (DoS/DDoS, phishing, malware, ransomware)  
-   - Teknik mitigasi dan respons insiden  
-   - Analisis forensik siber  
 
-6. **Keamanan Aplikasi Web dan IoT**
-   - Kerentanan aplikasi web (SQL Injection, XSS, CSRF)  
-   - Keamanan API dan IoT  
+## Upaya penganggulangan Kejahtan Komputer
 
-7. **Etika dan Kepatuhan**
-   - Regulasi keamanan data (GDPR, ISO 27001)  
-   - Etika profesional dalam keamanan siber  
+1. Pendidikan dan Kesadaran kemanan siber Salah satu langkah yang dapat diambil untuk mengurangi kejahtan komputer adalah 
+   untuk mengurangi kejahtan komputer dengan meningkatkan kesadaran pemahaman masyarakat tentang pentingnya menjaga keamanan 
+   di dunia maya.Kampanye  edukasi tentang bagaimana melindungi data pribadi  dan menggunakan perangkat secara aman sangat 
+   penting.
 
-### Hasil Pembelajaran:
-Setelah menyelesaikan mata kuliah ini, mahasiswa diharapkan mampu:
-1. Mengidentifikasi dan menganalisis ancaman serta kerentanan pada sistem dan jaringan komputer.  
-2. Merancang solusi keamanan untuk melindungi data dan infrastruktur teknologi informasi.  
-3. Menerapkan alat dan teknik keamanan pada sistem operasi, jaringan, dan aplikasi.  
-4. Mengelola insiden keamanan dan melakukan investigasi forensik.  
-5. Memahami aspek hukum dan etika terkait keamanan siber. 
+2.	Penguatan Regulasi dan Hukum Siber pemerintah perlu memperkuat regulas iyang mengatur kejahatan komputer,termasuk 
+   memperbaruhi undang-undang yang ada agar sesuai dengan perkembangan teknogi.Selain itu, perlu ada kerja  sama antarbnegara 
+   untuk menangani kejahatan siber yang bersifat lintas negara.
+  	
+3.	Peningkatan Keamanan Sistem dan Teknologi Perusahaan dan organisasi harus secara proaktif meningkatkan sistem keamanan 
+   mereka untuk melindungi data dan informasi yang ada. Hal ini termasuk pengguna perangkat lunak anti virus yang 
+   terbaru,enkripsi data,dan ontetikasi multi-faktor untuk akses ke sistem penting.
+  	
+4.	Kolaborasi Internasional dalam Penanggulangan Kejahatan Siber Meningat bahwa kejahatan komputer sering kali melibatkan 
+   pelaku lintas negara,kolaborasi internasional dalam menangani kasus ini sangat penting.Kerja sama  antara negara dalam 
+   bentuk pertukaran informasi dan pelatihan untuk penegak hukum akan membantu menanggulangi kejahtan komputer secara lebih 
+   efektif.
+  	
+5.	Pengawasan dan Deteksi Dini Organisasi perlu mengembangkan sistem pemantauan dan deteksi dini untuk mengidentifikasi 
+   ancaman atau potensi serangan lebih awal.Penggunaan teknologi seperti kecerdasan buatan (AI) dan analisis data lebih besar 
+   (big data) dapat membantu mendeteksi perilaku nmencurigakan dalam jaringan komputer.
 
----
-- From: CGAI
-- By: Ikhwan Elyas
+## Kesimpulan
+
+sama internasional Meningkatnya kejahtan komputer adalah masalah serius  yang memerlukan perhatian khusus dari pemerintah,masyarakat,dan sektor wisata.Kemajuan teknologi yang pesat,kurangnya kesadaran akan keamanan siber,serta tingginya potensi keutungan finansial yang didapatkan pelaku kejahatan menjadi faktor utama dalam meningkatnya kasus kejahatan komputer.Oleh karena itu,untuk mengatasi masalah ini,diperlukan langkag-langkah yang komprehensif,termasuk peningkatan regulasi,kesadaran keamanan siber,dan kerja dalam penganggulangan kejahtan komputer.
+
+## Referensi
+
+1. Clough, J. (2015). Principles of cybercrime.Cambrige University Press.
+2. Wall, D. (2007). Cybercrime: The Transformation of crime in the information Age. Polity press
+3. Andreson, R. (2020). Security Emgineering: A Guide to Building Dependable Distributes Systems. Wiley.
+
+
+
+
