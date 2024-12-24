@@ -37,22 +37,22 @@ Masalah dalam sistem dapat disebabkan oleh berbagai faktor. Berikut adalah beber
     - **Persaingan Pasar: Persaingan yang ketat dapat memaksa sistem untuk beradaptasi dengan cepat, yang kadang-kadang dapat menyebabkan masalah.**
     - **Kondisi Ekonomi: Fluktuasi ekonomi dapat mempengaruhi sumber daya yang tersedia untuk sistem.**
 
-## B. Dampak Masalah dalam Sistem
-      Masalah dalam sistem dapat memiliki dampak yang signifikan, antara lain:
+## Dampak Masalah dalam Sistem
+   Masalah dalam sistem dapat memiliki dampak yang signifikan, antara lain:
       
-      1. **Penurunan Produktivitas: Kinerja sistem yang buruk dapat mengakibatkan penurunan produktivitas.**
-      2. **Kerugian Finansial: Masalah yang tidak ditangani dapat menyebabkan kerugian finansial yang besar.**
-      3. **Kepuasan Pelanggan yang Menurun: Kualitas layanan yang buruk dapat mengakibatkan ketidakpuasan pelanggan.**
-      4. **Reputasi yang Buruk: Masalah yang berulang dapat merusak reputasi organisasi.**
+   1. **Penurunan Produktivitas: Kinerja sistem yang buruk dapat mengakibatkan penurunan produktivitas.**
+   2. **Kerugian Finansial: Masalah yang tidak ditangani dapat menyebabkan kerugian finansial yang besar.**
+   3. **Kepuasan Pelanggan yang Menurun: Kualitas layanan yang buruk dapat mengakibatkan ketidakpuasan pelanggan.**
+   4. **Reputasi yang Buruk: Masalah yang berulang dapat merusak reputasi organisasi.**
 
-## C. Solusi untuk Mengatasi Masalah dalam Sistem
-      Untuk mengatasi masalah dalam sistem, beberapa langkah yang dapat diambil antara lain:
+## Solusi untuk Mengatasi Masalah dalam Sistem
+   Untuk mengatasi masalah dalam sistem, beberapa langkah yang dapat diambil antara lain:
       
-      1. **Pelatihan dan Pengembangan: Memberikan pelatihan yang memadai kepada karyawan untuk meningkatkan keterampilan dan pengetahuan mereka.**
-      2. **Peningkatan Komunikasi: Membangun saluran komunikasi yang efektif untuk memastikan informasi yang jelas dan tepat.**
-      3. **Audit Sistem: Melakukan audit secara berkala untuk mengidentifikasi dan memperbaiki masalah dalam sistem.**
-      4. **Penerapan Teknologi Baru: Mengadopsi teknologi terbaru untuk meningkatkan efisiensi dan efektivitas sistem.**
-      5. **Umpan Balik yang Konstruktif: Mendorong umpan balik dari pengguna untuk perbaikan berkelanjutan.**
+  1. **Pelatihan dan Pengembangan: Memberikan pelatihan yang memadai kepada karyawan untuk meningkatkan keterampilan dan pengetahuan mereka.**
+  2. **Peningkatan Komunikasi: Membangun saluran komunikasi yang efektif untuk memastikan informasi yang jelas dan tepat.**
+  3. **Audit Sistem: Melakukan audit secara berkala untuk mengidentifikasi dan memperbaiki masalah dalam sistem.**
+  4. **Penerapan Teknologi Baru: Mengadopsi teknologi terbaru untuk meningkatkan efisiensi dan efektivitas sistem.**
+  5. **Umpan Balik yang Konstruktif: Mendorong umpan balik dari pengguna untuk perbaikan berkelanjutan.**
 
 ## Kesimpulan
    Masalah dalam sistem dapat disebabkan oleh berbagai faktor, termasuk faktor manusia, teknologi, proses, dan lingkungan. Penting bagi organisasi untuk mengidentifikasi penyebab masalah dan mengambil langkah-langkah 
