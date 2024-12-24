@@ -1,5 +1,5 @@
 ---
-title: Keamanan Sistem & Jaringan Komputer
+title: Memahami konsep dasar keamanan sistem komputer
 category: Materi
 author: Sulasri Suwarno
 Npm: 121055520121128
@@ -187,16 +187,13 @@ Meskipun tantangan dalam keamanan sistem komputer terus berkembang, dengan pende
 ### Referensi
 
 - **Stallings, W. (2015). Computer Security: Principles and Practice. Pearson.**
-
 - **Anderson, R. (2020). Security Engineering: A Guide to Building Dependable Distributed Systems. Wiley.**
-
 - **Bishop, M. (2003). Computer Security: Art and Science. Addison-Wesley.** 
-
-- **Easttom, C. (2018). Computer Security Fundamentals. Pearson.** 
+- **Easttom, C. (2018). Computer Security Fundamentals. Pearson.**
 - **Kizza, J. M. (2017). Computer Network Security. Springer.**
 - **Rouse, M. (2020). "What is a VPN?" TechTarget. Retrieved from TechTarget.**
 - **Zetter, K. (2016). "The Rise of Ransomware: How to Protect Yourself." Wired. Retrieved from Wired.** 
 - **Symantec. (2021). "Internet Security Threat Report." Retrieved from Symantec. NIST. (2018). "Framework for Improving Critical Infrastructure Cybersecurity." Retrieved from NIST.**
 - **Ponemon Institute. (2020). "Cost of a Data Breach Report." Retrieved from Ponemon.**
-- 
+  
 
