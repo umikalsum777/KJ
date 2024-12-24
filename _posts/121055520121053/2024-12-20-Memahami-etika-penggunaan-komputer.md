@@ -1,5 +1,5 @@
 ---
-title: Keamana Sistem & Jaringan Komputer 
+title: MEMAHAMI ETIKA PENGGUNAAN KOMPUTER
 category: Materi
 author: SURYANTI TAMRIN
 NPM : 121055520121053
