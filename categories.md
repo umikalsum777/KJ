@@ -6,7 +6,11 @@ header: All Post
 author: Ikhwan N. Elyas
 ---
 
+## Kategori Post 
 
+<hr style="width: 200px; margin-left: 0;">
+
+### Post by Pak Ikhwan:
 <!-- { if post.title == "Cybercrime Forensik Digital -" } -->
 <ul>
     {% for post in site.posts %}
@@ -26,6 +30,22 @@ author: Ikhwan N. Elyas
     {% endfor %}
 </ul>
 
+### Post by Mahasiswa: 
+
+<ul>
+    {% for post in site.posts %}
+        {% if post.author %}
+            {% unless post.author contains "Ikhwan" %}
+                <li>
+                    <a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}.html" target="_blank">
+                        {{ post.date | date: "%-d %B %Y" }} - {{ post.title }} [ {{ post.author }} ]
+                    </a>
+                </li>
+            {% endunless %}
+        {% endif %}
+    {% endfor %}
+
+</ul>
 
 ***
 
