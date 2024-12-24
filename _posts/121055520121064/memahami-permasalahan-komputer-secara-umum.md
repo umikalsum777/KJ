@@ -1,9 +1,10 @@
 ---
-title: Keamana Sistem & Jaringan Komputer 
-category: Materi
+title: memahami permasalahan komputer secara umum
 author: Yusri Taib
 Npm: 121055520121064
 ---
+
+### memahami permasalahan komputer secara umum
 
 ## Kata Pengantar
 
