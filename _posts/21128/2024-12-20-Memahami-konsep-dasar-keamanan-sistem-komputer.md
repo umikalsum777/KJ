@@ -198,4 +198,5 @@ Meskipun tantangan dalam keamanan sistem komputer terus berkembang, dengan pende
 - **Zetter, K. (2016). "The Rise of Ransomware: How to Protect Yourself." Wired. Retrieved from Wired.** 
 - **Symantec. (2021). "Internet Security Threat Report." Retrieved from Symantec. NIST. (2018). "Framework for Improving Critical Infrastructure Cybersecurity." Retrieved from NIST.**
 - **Ponemon Institute. (2020). "Cost of a Data Breach Report." Retrieved from Ponemon.**
+- 
 
