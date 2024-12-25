@@ -3,7 +3,9 @@ title : merangkuman masalah masalah keamanan dalam penggunaan database
 category : Materi
 Npm : 121055520121145
 Nama : umi kalsum jakaria
+
 ### kata pengantar
+
 Kata Pengantar
 Puji syukur kami panjatkan kepada Tuhan Yang Maha Esa, karena berkat rahmat dan karunia-Nya, kami dapat menyelesaikan makalah ini yang berjudul "Masalah Keamanan dalam Penggunaan Database". Makalah ini disusun untuk memberikan pemahaman yang lebih mendalam mengenai berbagai masalah keamanan yang dihadapi dalam pengelolaan database, yang merupakan salah satu komponen vital dalam sistem informasi modern.
 
