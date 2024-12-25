@@ -1,8 +1,8 @@
 ---
-title: pelanggaran yang terjadi dalampemanfaatan TI
-category: Materi
-Nama: umi kalsum jakaria
-Npm: 121055520121145
+title : pelanggaran yang terjadi dalampemanfaatan TI
+category : Materi
+Nama : umi kalsum jakaria
+Npm : 121055520121145
 ---
 Kata Pengantar
 
