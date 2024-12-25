@@ -26,18 +26,22 @@ Deskripsi: Pencurian data dapat dilakukan oleh pihak yang tidak berwenang untuk 
 Dampak: Kehilangan data dapat merugikan organisasi secara finansial dan reputasi.
 
 2. Hilangnya Kerahasiaan dan Privasi
+   
 Deskripsi: Data yang tidak dilindungi dengan baik dapat diakses oleh pihak yang tidak berhak, mengakibatkan hilangnya kerahasiaan.
 Dampak: Pelanggaran privasi dapat menyebabkan kerugian hukum dan reputasi bagi organisasi.
 
-3. Kerentanan Aplikasi Database
+4. Kerentanan Aplikasi Database
+   
 Deskripsi: Banyak aplikasi database memiliki kerentanan yang dapat dimanfaatkan oleh penyerang, seperti SQL injection dan buffer overflow.
 Dampak: Kerentanan ini dapat mengakibatkan akses tidak sah ke database dan pencurian data.
 
-4. Kelemahan dalam Pengelolaan Akses
+6. Kelemahan dalam Pengelolaan Akses
+   
 Deskripsi: Pengelolaan hak akses yang buruk dapat menyebabkan pengguna yang tidak berwenang mendapatkan akses ke data sensitif.
 Dampak: Hal ini dapat mengakibatkan penyalahgunaan data dan kerugian bagi organisasi.
 
-5. Serangan Malware
+8. Serangan Malware
+   
 Deskripsi: Malware dapat menyerang sistem database dan merusak data atau mengganggu akses ke database.
 Dampak: Serangan ini dapat menyebabkan downtime yang signifikan dan kerugian finansial.
 Langkah-langkah Pencegahan Keamanan Database
@@ -54,19 +58,23 @@ Deskripsi: Menerapkan kontrol akses yang ketat dan memberikan hak akses hanya ke
 Manfaat: Mengurangi kemungkinan akses tidak sah ke data sensitif.
 
 2. Enkripsi Data
+   
 Deskripsi: Menggunakan enkripsi untuk melindungi data yang disimpan dan data yang ditransmisikan.
 Manfaat: Mencegah pihak yang tidak berwenang mengakses data yang sensitif
 
-3. Pemantauan dan Audit
+4. Pemantauan dan Audit
+   
 Deskripsi: Melakukan pemantauan secara rutin terhadap aktivitas database dan melakukan audit keamanan.
 Manfaat: Mengidentifikasi dan merespons ancaman keamanan dengan cepat.
 
-4. Pelatihan Kesadaran Keamanan
+6. Pelatihan Kesadaran Keamanan
+   
 Deskripsi: Memberikan pelatihan kepada karyawan mengenai praktik keamanan yang baik dan kesadaran akan ancaman.
 Manfaat: Meningkatkan kesadaran dan tanggung jawab karyawan terhadap keamanan data.
 Manfaat: Mencegah pihak yang tidak berwenang mengakses data yang sensitif.
 
 ### Pemantauan dan Audit
+
 Deskripsi: Melakukan pemantauan secara rutin terhadap aktivitas database dan melakukan audit keamanan.
 Manfaat: Mengidentifikasi dan merespons ancaman keamanan dengan cepat.
 
@@ -79,6 +87,7 @@ Manfaat: Meningkatkan kesadaran dan tanggung jawab karyawan terhadap keamanan da
 Keamanan database merupakan aspek yang sangat penting dalam pengelolaan informasi di era digital. Ancaman terhadap keamanan database dapat mengakibatkan kerugian yang signifikan bagi organisasi. Oleh karena itu, penting untuk menerapkan langkah-langkah pencegahan yang efektif untuk melindungi data dan menjaga integritas sistem database.
 
 ### referensi
+
 Jurnal EduSociety. (2021). Keamanan Database: Pentingnya Perlindungan Data. Diakses dari https://jurnal.permapendis-sumut.org/index.php/edusociety/article/download/357/286/1386
 
 BKPSDM Provinsi Babel. (2022). Sistem Keamanan Database. Diakses dari https://bkpsdmd.babelprov.go.id/content/sistem-keamanan-database
