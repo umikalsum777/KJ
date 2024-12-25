@@ -14,7 +14,7 @@ Puji syukur kami panjatkan kepada Tuhan Yang Maha Esa, karena berkat rahmat dan 
 Di era digital saat ini, penggunaan database semakin meluas, baik di sektor bisnis, pemerintahan, maupun pendidikan. Namun, seiring dengan meningkatnya penggunaan teknologi informasi, ancaman terhadap keamanan database juga semakin kompleks dan beragam. Masalah seperti pencurian data, kebocoran informasi, dan serangan siber menjadi tantangan serius yang harus dihadapi oleh setiap organisasi.
 
 
-##Pendahuluan
+## Pendahuluan
 
 Keamanan database adalah suatu cara untuk melindungi database dari ancaman, baik yang bersifat sengaja maupun tidak. Ancaman ini dapat berupa pencurian data, kerusakan data, dan pelanggaran privasi. Dalam makalah ini, kami akan membahas berbagai masalah keamanan yang sering terjadi dalam penggunaan database, serta langkah-langkah yang dapat diambil untuk mengatasinya.
 ### Deskripsi Mata Kuliah
@@ -61,29 +61,29 @@ Manfaat: Mengurangi kemungkinan akses tidak sah ke data sensitif.
 
 2. Enkripsi Data
    
-Deskripsi: Menggunakan enkripsi untuk melindungi data yang disimpan dan data yang ditransmisikan.
-Manfaat: Mencegah pihak yang tidak berwenang mengakses data yang sensitif
+Deskripsi : Menggunakan enkripsi untuk melindungi data yang disimpan dan data yang ditransmisikan.
+Manfaat : Mencegah pihak yang tidak berwenang mengakses data yang sensitif
 
 4. Pemantauan dan Audit
    
-Deskripsi: Melakukan pemantauan secara rutin terhadap aktivitas database dan melakukan audit keamanan.
-Manfaat: Mengidentifikasi dan merespons ancaman keamanan dengan cepat.
+Deskripsi : Melakukan pemantauan secara rutin terhadap aktivitas database dan melakukan audit keamanan.
+Manfaat : Mengidentifikasi dan merespons ancaman keamanan dengan cepat.
 
 6. Pelatihan Kesadaran Keamanan
    
-Deskripsi: Memberikan pelatihan kepada karyawan mengenai praktik keamanan yang baik dan kesadaran akan ancaman.
-Manfaat: Meningkatkan kesadaran dan tanggung jawab karyawan terhadap keamanan data.
-Manfaat: Mencegah pihak yang tidak berwenang mengakses data yang sensitif.
+Deskripsi : Memberikan pelatihan kepada karyawan mengenai praktik keamanan yang baik dan kesadaran akan ancaman.
+Manfaat : Meningkatkan kesadaran dan tanggung jawab karyawan terhadap keamanan data.
+Manfaat : Mencegah pihak yang tidak berwenang mengakses data yang sensitif.
 
 ### Pemantauan dan Audit
 
-Deskripsi: Melakukan pemantauan secara rutin terhadap aktivitas database dan melakukan audit keamanan.
-Manfaat: Mengidentifikasi dan merespons ancaman keamanan dengan cepat.
+Deskripsi : Melakukan pemantauan secara rutin terhadap aktivitas database dan melakukan audit keamanan.
+Manfaat : Mengidentifikasi dan merespons ancaman keamanan dengan cepat.
 
-###Pelatihan Kesadaran Keamanan
+### Pelatihan Kesadaran Keamanan
 
-Deskripsi: Memberikan pelatihan kepada karyawan mengenai praktik keamanan yang baik dan kesadaran akan ancaman.
-Manfaat: Meningkatkan kesadaran dan tanggung jawab karyawan terhadap keamanan data.
+Deskripsi : Memberikan pelatihan kepada karyawan mengenai praktik keamanan yang baik dan kesadaran akan ancaman.
+Manfaat : Meningkatkan kesadaran dan tanggung jawab karyawan terhadap keamanan data.
 
 ### kesimpulan
 Keamanan database merupakan aspek yang sangat penting dalam pengelolaan informasi di era digital. Ancaman terhadap keamanan database dapat mengakibatkan kerugian yang signifikan bagi organisasi. Oleh karena itu, penting untuk menerapkan langkah-langkah pencegahan yang efektif untuk melindungi data dan menjaga integritas sistem database.
