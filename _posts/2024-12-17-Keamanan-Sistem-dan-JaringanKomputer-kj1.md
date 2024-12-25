@@ -5,11 +5,13 @@ Nama: umi kalsum jakaria
 Npm: 121055520121145
 ---
 Kata Pengantar
+
 Puji syukur kami panjatkan ke hadirat Tuhan Yang Maha Esa, karena berkat rahmat dan karunia-Nya, kami dapat menyelesaikan makalah ini yang berjudul "Pelanggaran yang Terjadi dalam Pemanfaatan Teknologi Informasi". Makalah ini disusun sebagai upaya untuk memahami dan menganalisis berbagai pelanggaran yang terjadi dalam pemanfaatan teknologi informasi, terutama dalam konteks perkembangan yang pesat di era digital saat ini.
 
 Teknologi informasi telah menjadi bagian integral dari kehidupan sehari-hari, memberikan kemudahan dan efisiensi dalam berbagai aspek. Namun, seiring dengan kemajuan tersebut, muncul berbagai tantangan dan pelanggaran yang dapat merugikan individu maupun organisasi. Oleh karena itu, penting bagi kita untuk memahami jenis-jenis pelanggaran yang ada, dampaknya, serta upaya pencegahan yang dapat dilakukan.
 
 ## Pendahuluan
+
 Latar Belakang: Pemanfaatan Teknologi Informasi (TI) semakin meluas dalam berbagai aspek kehidupan, termasuk dalam bisnis, pendidikan, dan pemerintahan. Namun, seiring dengan perkembangan ini, muncul berbagai pelanggaran yang dapat merugikan individu maupun organisasi.
 
 Tujuan: Makalah ini bertujuan untuk mengidentifikasi dan menganalisis pelanggaran yang terjadi dalam pemanfaatan TI dari tahun 2021 hingga 2024.
@@ -30,6 +32,7 @@ Pembajakan perangkat lunak dan konten digital.
 Penyebaran materi berhak cipta tanpa izin.
 
 ### Contoh Kasus Pelanggaran TI (2021-2024)
+
 Kasus Kebocoran Data:
 
 a. Pada tahun 2022, terjadi kebocoran data besar-besaran di salah satu platform e-commerce yang mengakibatkan data jutaan pengguna terpapar.
