@@ -1,1 +1,90 @@
+---
+title: Kontrol Akses Secara Diskresi
+category: Materi 
+author: UMI KALSUM JAKARIA
+NPM : 121055520121145
+---
+
+## Kontrol Akses Secara Diskresi
+
+## Kata Pengantar
+
+Puji syukur kami panjatkan ke hadirat Tuhan Yang Maha Esa, karena berkat rahmat dan karunia-Nya, kami dapat menyelesaikan 
+makalah ini yang berjudul "Kontrol Akses Secara Diskresi". Makalah ini  disusun sebagai upaya untuk memahami lebih dalam mengenai 
+salah satu model kontrol akses yang penting dalam keamanan informasi.
+
+Kontrol akses merupakan aspek krusial dalam melindungi data dan sumber daya informasi dari akses yang tidak sah. Dalam makalah ini,
+kami membahas pengertian, prinsip kerja, kelebihan, dan kekurangan dari kontrol akses secara diskresi. Diharapkan, makalah ini dapat 
+memberikan wawasan yang bermanfaat bagi pembaca, terutama bagi mereka yang berkecimpung dalam bidang keamanan informasi dan teknologi.
+
+Kami menyadari bahwa makalah ini masih jauh dari sempurna. Oleh karena itu, kami sangat mengharapkan kritik dan saran yang konstruktif
+dari para pembaca untuk perbaikan di masa mendatang. Terima kasih kepada semua pihak yang telah memberikan dukungan dan bantuan dalam 
+penyusunan makalah ini.
+Semoga makalah ini dapat memberikan manfaat dan menambah pengetahuan bagi kita semua.
+
+
+## Pendahuluan 
+
+Kontrol akses merupakan salah satu aspek penting dalam keamanan informasi. Salah satu model kontrol akses yang banyak digunakan 
+adalah kontrol akses secara diskresi (Discretionary Access Control - DAC). Model ini memberikan fleksibilitas kepada pemilik
+sumber daya untuk mengatur siapa saja yang dapat mengakses dan menggunakan sumber daya tersebut. Dalam makalah ini, akan dibahas
+pengertian, prinsip kerja, kelebihan, dan kekurangan dari kontrol akses secara diskresi.
+
+
+##  Pengertian Kontrol Akses Secara Diskresi 
+
+Kontrol akses secara diskresi adalah model kontrol akses di mana pemilik objek (seperti file, folder, atau sumber daya lainnya) 
+memiliki hak untuk menentukan siapa yang dapat mengakses objek tersebut. Dalam model ini, pemilik dapat memberikan atau mencabut
+hak akses kepada pengguna lain sesuai dengan kebijakannya. Hal ini berbeda dengan model kontrol akses lainnya, seperti Mandatory 
+Access Control (MAC), di mana hak akses ditentukan oleh kebijakan sistem dan tidak dapat diubah oleh pemilik objek.
+
+
+## Prinsip Kerja Kontrol Akses Secara Diskresi 
+Prinsip kerja kontrol akses secara diskresi melibatkan beberapa komponen utama:
+
+1. Pemilik Objek: Individu atau entitas yang memiliki objek dan memiliki hak untuk mengatur akses.
+
+  
+2. Hak Akses: Izin yang diberikan oleh pemilik kepada pengguna lain untuk mengakses objek. Hak akses 
+   ini dapat berupa izin untuk membaca, menulis, atau mengeksekusi objek.
+
+3. Pengguna: Individu atau entitas yang ingin mengakses objek. Pengguna dapat diberikan hak akses oleh pemilik objek.
+
+
+4. ## Kelebihan Kontrol Akses Secara Diskresi 
+
+1. Fleksibilitas: Pemilik objek memiliki kontrol penuh atas hak akses, sehingga dapat dengan mudah menyesuaikan akses sesuai kebutuhan.
+
+2. Sederhana: Implementasi dan pengelolaan hak akses relatif mudah, sehingga tidak memerlukan pengetahuan teknis yang mendalam.
+
+3. Kustomisasi: Pemilik dapat memberikan hak akses yang spesifik kepada pengguna tertentu, memungkinkan pengaturan yang lebih personal.
+
+
+   ##  Kekurangan Kontrol Akses Secara Diskresi 
+1. Keamanan yang Rentan: Karena pemilik objek memiliki kontrol penuh, ada risiko bahwa hak akses dapat diberikan secara sembarangan,
+    yang dapat mengakibatkan kebocoran data.
+
+2. Kesulitan dalam Pengelolaan: Dalam lingkungan yang besar, pengelolaan hak akses dapat menjadi rumit dan sulit untuk dipantau.
+
+3. Potensi Penyalahgunaan: Pengguna yang memiliki hak akses dapat menyalahgunakan izin yang diberikan, baik secara sengaja maupun tidak.
+
+5. ## Kesimpulan
+
+Kontrol akses secara diskresi adalah model yang memberikan kebebasan kepada pemilik objek untuk mengatur hak akses. Meskipun memiliki kelebihan
+dalam hal fleksibilitas dan kemudahan pengelolaan, model ini juga memiliki kekurangan yang perlu diperhatikan,dalam hal fleksibilitas dan kemudahan
+pengelolaan, model ini juga memiliki kekurangan yang perlu diperhatikan, terutama dalam hal keamanan. Oleh karena itu, penting bagi organisasi untuk 
+mempertimbangkan kebutuhan dan risiko yang ada sebelum mengimplementasikan model kontrol akses ini. 
+
+
+## Daftar Pustaka
+1.  Stallings, W. (2015). Computer Security: Principles and Practice. Pearson.
+
+2.Anderson, R. (2020). Security Engineering: A Guide to Building Dependable Distributed Systems. Wiley.
+
+3.Sandhu, R. (1998). "The NIST Model for Access Control". IEEE Computer Society Press.
+
+
+
+
+***
 
